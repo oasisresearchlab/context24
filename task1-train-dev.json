@@ -1,0 +1,3701 @@
+[
+    {
+        "id": "akamatsulab-1YXRXmgXU",
+        "claim": "Fluid uptake as measured by fluorescent 10kDa Dextran increased upon decreased membrane tension as a result of deadhering CHO cells during trypsinization.",
+        "citekey": "thottacherry2018mechanochemical",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 1D"
+        ]
+    },
+    {
+        "id": "akamatsulab-9E0jVhav_",
+        "claim": "Swip1 bound to actin via Swip1 EF1 domain as shown by GFP-pulldown assay in MDA-MB-231 cells.",
+        "citekey": "morenolayseca2021cargospecific",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 6A",
+            "FIG 6B"
+        ]
+    },
+    {
+        "id": "akamatsulab-QMQIJuzAI",
+        "claim": "Knocking down \u03b1v\u03b25 integrin expression abolished clathrin plaque assembly in HeLa cells",
+        "citekey": "baschieri2018frustrated",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 2C",
+            "FIG 2A"
+        ]
+    },
+    {
+        "id": "akamatsulab-WJvOy9Exn",
+        "claim": "The density of free barbed ends increased as a function of growth stress",
+        "citekey": "li2022molecular",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 1D"
+        ]
+    },
+    {
+        "id": "akamatsulab-ZR6_FyY3a",
+        "claim": "Overexpressed CRIB domain of N-WASP localized to Cdc42-containing spots on the plasma membrane in FRaTB cells",
+        "citekey": "chadda2007cholesterolsensitive",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 6A",
+            "FIG 6B",
+            "FIG 6C",
+            "FIG 6D",
+            "FIG 6E"
+        ]
+    },
+    {
+        "id": "akamatsulab-cRFz4n0Pc",
+        "claim": "Coronin and cofilin-1 intensity peaked at about 4-5 seconds after ABP1-GFP maximal intensity at endocytic patches in budding yeast.",
+        "citekey": "lin2010overlapping",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 1"
+        ]
+    },
+    {
+        "id": "akamatsulab-TBLuywz6G",
+        "claim": "Endogenous Swip1 localized to Rab21+ and B1-integrin-containing early endosomes.",
+        "citekey": "morenolayseca2021cargospecific",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 2C",
+            "FIG 2A"
+        ]
+    },
+    {
+        "id": "akamatsulab-WQY-tljFm",
+        "claim": "A computational assessment of theoretical conformational changes upon binding of cofilin monomers to an actin filament suggest a minimum of 3 cofilactin interfaces, or two adjacent bound cofilin monomers, induces severing of an actin filament.",
+        "citekey": "tanaka2018structural",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 7"
+        ]
+    },
+    {
+        "id": "akamatsulab-rPE_IW2JJ",
+        "claim": "Endothelial cells grown on stiffer cells had more actin stress fibers and were themselves stiffer than cells grown on more compliant substrates.",
+        "citekey": "byfield2009endothelial",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 3A",
+            "FIG 3B",
+            "FIG 3C",
+            "FIG 3D",
+            "FIG 3E",
+            "FIG 3F",
+            "FIG 1A",
+            "FIG 1B",
+            "FIG 1C"
+        ]
+    },
+    {
+        "id": "akamatsulab-GqpzNJuEZ",
+        "claim": "siRNA-A1 silenced Hip1R showed Arp3 and F-actin 'tails' in HeLa cells.",
+        "citekey": "engqvistgoldstein2004rnaimediated",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 4C"
+        ]
+    },
+    {
+        "id": "akamatsulab-A63ow10iT",
+        "claim": "Mechano-sensing clathrin plaques formed independent of actin contractility",
+        "citekey": "baschieri2018frustrated",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 1"
+        ]
+    },
+    {
+        "id": "akamatsulab-yQg2vbfkG",
+        "claim": "Cofilin peaked in concentration about 10 seconds after endocytic scission in mouse 3T3 fibroblasts.",
+        "citekey": "taylor2011high",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 4"
+        ]
+    },
+    {
+        "id": "akamatsulab-2-bJaFjob",
+        "claim": "About 30 DNM2 molecules were required for forming the encytosis in SK-MEL-2 cells.",
+        "citekey": "grassart2014actin",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 3G"
+        ]
+    },
+    {
+        "id": "akamatsulab-QLP8zq7GU",
+        "claim": "Platinum-replica electron micrographs of unroofed B16F1 mouse melanoma cells showed actin networks in collar-like arrangements around clathrin coat necks and at small lateral patches at the periphery of clathrin coats",
+        "citekey": "collins2011structural",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 3"
+        ]
+    },
+    {
+        "id": "akamatsulab-u95Z_9Xq7",
+        "claim": "Total bending energy of actin filaments increased as a function of membrane tension in endocytic simulations",
+        "citekey": "akamatsu2020principles",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 7H"
+        ]
+    },
+    {
+        "id": "akamatsulab-kZckUXf1w",
+        "claim": "Treatment of H9 cells with CK-666 resulted in a~50% decrease in the formation of apical membrane\u00a0initiation sites (AMIS) en route to lumen formation",
+        "citekey": "taniguchi2015lumen",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 4G"
+        ]
+    },
+    {
+        "id": "akamatsulab-kimWcz_h4",
+        "claim": "Endocytic protein ABP1-GFP lifetime increased by 2-3x in budding yeast cells with cofilin mutants",
+        "citekey": "lin2010overlapping",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 8"
+        ]
+    },
+    {
+        "id": "akamatsulab-kayrJnALo",
+        "claim": "Endocytic adaptor protein End4p-mGFP accumulated more slowly and to a greater number of molecules in fission yeast cells with mutant cofilin allele",
+        "citekey": "chen2013actin",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 2"
+        ]
+    },
+    {
+        "id": "akamatsulab-kIupe544T",
+        "claim": "The surface area overlap of actin over clathrin increased from ~5% to ~10% coverage from flat to curved pits in four cell types by platinum-replica electron microscopy",
+        "citekey": "yang2022actin",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 2N"
+        ]
+    },
+    {
+        "id": "akamatsulab-rYe33dsbF",
+        "claim": "Knockdown of either \u03b1v or \u03b25 integrins in HeLa cells using specific siRNAs resulted in a complete loss of large and static CCSs",
+        "citekey": "baschieri2018frustrated",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 2F",
+            "FIG 2E",
+            "FIG 2D"
+        ]
+    },
+    {
+        "id": "akamatsulab-QsJF6msql",
+        "claim": "Intensity over time traces of hiPSCs endogenously expressing AP2-RFP and Dynamin2-GFP peaked sequentially",
+        "citekey": "akamatsu2020principles",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 2G"
+        ]
+    },
+    {
+        "id": "akamatsulab-BX3Cqqj90",
+        "claim": "Purified swip1 bound human platelet actin with an affinity of 1.9 \u00b1 0.8 uM",
+        "citekey": "kwon2013swiprosin1",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 3A"
+        ]
+    },
+    {
+        "id": "akamatsulab-vmbAp09g2",
+        "claim": "MiTAB, a inhibitor of DNM2 PH domain, led to increased DNM2 recruitment in SK-MEL-2 cells",
+        "citekey": "grassart2014actin",
+        "dataset": "akamatsulab",
+        "findings": [
+            "SUPP FIG S3F"
+        ]
+    },
+    {
+        "id": "akamatsulab-Dd1n6KIBV",
+        "claim": "siRNA silenced Swip1 reduced GFP-Rab21+ (CG-associated) endosome trafficking in MDA-MB-231 cells.",
+        "citekey": "morenolayseca2021cargospecific",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 6G"
+        ]
+    },
+    {
+        "id": "akamatsulab-WbWLJVWcF",
+        "claim": "Knockout of __Dictyostelium__ WASP (__wasA-__) led to bipolar localization of WAVE rather than WT localization of WAVE to the leading edge.",
+        "citekey": "amato2019wasp",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 1A",
+            "FIG 1B"
+        ]
+    },
+    {
+        "id": "akamatsulab-taeyp3oH-",
+        "claim": "Membrane dye (DiI dye) or Dextran uptake for 1 or 5 minutes in HeLa cells colocalize with endogenous GRAF1 staining.",
+        "citekey": "lundmark2008gtpaseactivating",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 1B",
+            "FIG 1C",
+            "FIG 1D"
+        ]
+    },
+    {
+        "id": "akamatsulab-LlehpEErX",
+        "claim": "Immunofluorescence of folate-binding protein showed fluorescence in the periphery of KB cells",
+        "citekey": "numasawa2020fluorescent",
+        "dataset": "akamatsulab",
+        "findings": [
+            "SUPP FIG S1"
+        ]
+    },
+    {
+        "id": "akamatsulab-wLCgd8nNI",
+        "claim": "Switching media from isotonic to hypotonic (75m0sm) media for 2-20 minutes increased the membrane tension from 33.0 \u00b1 7.4 pN to 48.0 \u00b1 17.1 pN, as measured by AFM.",
+        "citekey": "kaplan2022load",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 2A",
+            "FIG 2B"
+        ]
+    },
+    {
+        "id": "akamatsulab-dFhjWUgD7",
+        "claim": "TIRF revealed that Cortactin, Hip1R, and Clathrin were simultaneously recruited to endocytic sites in 3T3 cell.",
+        "citekey": "leclainche2007hip1r",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 4E"
+        ]
+    },
+    {
+        "id": "akamatsulab-boQ6UJJMP",
+        "claim": "Decreased clathrin coat dynamics were measured under increased membrane tension using micropipette aspiration",
+        "citekey": "ferguson2017mechanoregulation",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 1B"
+        ]
+    },
+    {
+        "id": "akamatsulab-5i2BACcCn",
+        "claim": "Pyrene-actin binding assays between human myo1e and actin plateaued at a dissociation rate of 440 \u00b1 9 s-1 for ATP concentrations > 2 \u00b5M",
+        "citekey": "mezgueldi2002kinetic",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 5A"
+        ]
+    },
+    {
+        "id": "akamatsulab-3-az1CxcL",
+        "claim": "Cofilin seems to have different effects on actin filaments, such as severing and nucleation, based on its concentration.",
+        "citekey": "andrianantoandro2006mechanism",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 5",
+            "SUPP FIG S5"
+        ]
+    },
+    {
+        "id": "akamatsulab-chLz-7JK6",
+        "claim": "The rate constant of cofilin binding to actin filaments was measured to be k+\u00a0= 0.013 \u03bcM\u22121s\u22121",
+        "citekey": "andrianantoandro2006mechanism",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 2C"
+        ]
+    },
+    {
+        "id": "akamatsulab-W8Zi3Y46u",
+        "claim": "Overexpression of GFP-GRAF1 in HeLa cells showed long (1-5um) tubules that turn over completely within 10 minutes based on fluorescence microscopy",
+        "citekey": "lundmark2008gtpaseactivating",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 1E"
+        ]
+    },
+    {
+        "id": "akamatsulab-JJ6CSK6w3",
+        "claim": "Depleting actin polymerization with latrunculin A led to increased STxB-induced tubular membrane invaginations in HeLa cells",
+        "citekey": "romer2010actin",
+        "dataset": "akamatsulab",
+        "findings": [
+            "SUPP FIG S1A",
+            "SUPP FIG S1B"
+        ]
+    },
+    {
+        "id": "akamatsulab-MIpYGNa-U",
+        "claim": "WAVE2 and IRSp53 both localized at ruffles and cell-cell junctions in A431 cells.",
+        "citekey": "suetsugu2006optimization",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 1A"
+        ]
+    },
+    {
+        "id": "akamatsulab-6wkebK9Rb",
+        "claim": "Depletion of \u03b21 or \u03b23 integrins by siRNA in HeLa cells showed no difference in the percentage of dynamic or static CCSs as compared to siCTRL cells.",
+        "citekey": "baschieri2018frustrated",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 4E",
+            "FIG 4F"
+        ]
+    },
+    {
+        "id": "akamatsulab-HiUvvjFf0",
+        "claim": "More actin filaments accumulated at sites of simulated endocytosis as a function of membrane tension",
+        "citekey": "akamatsu2020principles",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 7G"
+        ]
+    },
+    {
+        "id": "akamatsulab-k90itT5sI",
+        "claim": "After washout of ATP-reducing agents, lifeact-GFP increased photobleaching recovery and preceded scission of the membrane tubule a few minutes later",
+        "citekey": "romer2010actin",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 5D",
+            "FIG 5E"
+        ]
+    },
+    {
+        "id": "akamatsulab-gfaXg2-bh",
+        "claim": "Endogenous Swip1 associated with Rab21 in Rab21-containing early endosomes in MDA-MB-231 cells as shown by proximity ligation assay (PLA).",
+        "citekey": "morenolayseca2021cargospecific",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 2B"
+        ]
+    },
+    {
+        "id": "akamatsulab-yGIijdoa_",
+        "claim": "Endocytic track lengths of SKMEL-2 cells endogenously expressing Clathrin-RFP and Dynamin-GFP were distributed with peak value around 20-30 seconds",
+        "citekey": "akamatsu2020principles",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 6C"
+        ]
+    },
+    {
+        "id": "akamatsulab-3IOlxyzLb",
+        "claim": "Applying force to clathrin lattices on carbon-coated films caused a larger change in height when clathrin light chain was also present",
+        "citekey": "dannhauser2015effect",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 2D"
+        ]
+    },
+    {
+        "id": "akamatsulab-5BnB27O-f",
+        "claim": "Endocytic adaptor protein Sla1-GFP accumulated more slowly to sites of endocytosis in a cof1-22 mutant in budding yeast",
+        "citekey": "okreglak2007cofilin",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 4"
+        ]
+    },
+    {
+        "id": "akamatsulab-QigGJImJz",
+        "claim": "CortF, withtriple-mutant in tyrosine residues, increased fillopodia retraction frequency",
+        "citekey": "he2015src",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 4D"
+        ]
+    },
+    {
+        "id": "akamatsulab-NU1hryH_8",
+        "claim": "GRAF1-depletion by siRNA knockdown in HeLa cells has no effect on transferrin uptake",
+        "citekey": "lundmark2008gtpaseactivating",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 4D"
+        ]
+    },
+    {
+        "id": "akamatsulab-nC0geNc63",
+        "claim": "Depleting Cdc42 with siRNA led to the buildup of GRAF1-GFP in tubular structures",
+        "citekey": "francis2015endocytic",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 3C"
+        ]
+    },
+    {
+        "id": "akamatsulab-FxTUmxjh2",
+        "claim": "Simulated fission yeast endocytic actin networks produced ~3000 pN of force, while simulated budding yeast endocytic actin networks produced ~1000 pN of force",
+        "citekey": "nickaeen2022model",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 4A"
+        ]
+    },
+    {
+        "id": "akamatsulab-txXrNK-wA",
+        "claim": "At fission yeast endocytic sites, scission protein (spHob1) first detected ~2 seconds before initiation of membrane invagination",
+        "citekey": "sun2019direct",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 5D"
+        ]
+    },
+    {
+        "id": "akamatsulab-45WDQVJkn",
+        "claim": "ABI2 formed a complex with GRAF1 based on immunoprecipitation of HeLa cell lysates, in a manner dependent on GRAF1 phosphorylation and treatment with mitochondrial damaging agent oligomycin-A and antimycin-A",
+        "citekey": "zhu2023graf1",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 4A"
+        ]
+    },
+    {
+        "id": "akamatsulab-u3tkdx52k",
+        "claim": "Fluorescently labeled cortactin assembled coincident with Arp3 and Abp1 in NIH3T3 cells",
+        "citekey": "taylor2011high",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 4A"
+        ]
+    },
+    {
+        "id": "akamatsulab-q0LJEXQsw",
+        "claim": "Resistance to internalization (spring constant) was proportional to membrane tension in continuum membrane mechanics endocytosis simulations",
+        "citekey": "akamatsu2020principles",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 1C",
+            "FIG 1D"
+        ]
+    },
+    {
+        "id": "akamatsulab-tZwLhk7sM",
+        "claim": "Cryo-electron tomograms of flat clathrin lattices in HeLa cells showed a wide variety of angles for clathrin vertices (120.0 \u00b1 13.3 degrees)",
+        "citekey": "sochacki2021structure",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 2D"
+        ]
+    },
+    {
+        "id": "akamatsulab-cixbubehW",
+        "claim": "Swiprosin-1 inhibited cofilin-mediated actin depolymerization in vitro.",
+        "citekey": "huh2013swiprosin1",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 2D"
+        ]
+    },
+    {
+        "id": "akamatsulab-kIHG6-Ila",
+        "claim": "IRSp53 coimmunoprecipitated with WAVE in NIH3T3 cell lysates.",
+        "citekey": "miki2000irsp53",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 1A"
+        ]
+    },
+    {
+        "id": "akamatsulab-lNL2WkukA",
+        "claim": "Cryo-EM analysis of actin filaments showed that filaments bound to ADP-Pi were stiffer than filaments bound to ADP",
+        "citekey": "reynolds2022bending",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 4F"
+        ]
+    },
+    {
+        "id": "akamatsulab-1q7uo-zzw",
+        "claim": "Efficient lamellipodia actin filament severing requires a cofilin cluster longer than one-half of a helix",
+        "citekey": "ngo2015cofilininduced",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 6"
+        ]
+    },
+    {
+        "id": "akamatsulab-p-Fy1XHf_",
+        "claim": "GRAF1-depleted HeLa cells (via siRNA treatment) demonstrate ~50% reduction in fluid phase uptake as compared to control cells, shown by FITC-dextran uptake.",
+        "citekey": "lundmark2008gtpaseactivating",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 4B",
+            "FIG 4C"
+        ]
+    },
+    {
+        "id": "akamatsulab-6yP4l1xIu",
+        "claim": "Swip1 preferentially bound WT-Rab21 and constitutively active Rab21 over the closely related Rab5 GTPase.",
+        "citekey": "morenolayseca2021cargospecific",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 1E"
+        ]
+    },
+    {
+        "id": "akamatsulab-JvW-piCf8",
+        "claim": "Cortactin mutants lacking phosphorylatable Tyrosine site could not rescue the Knockdown of endogenous cortactin in Hela Cell",
+        "citekey": "zhu2007receptormediated",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 2A",
+            "FIG 2B"
+        ]
+    },
+    {
+        "id": "akamatsulab-hmfv-Bz4r",
+        "claim": "Incubation of STxB with Arp2-depleted cells for 5 min at 37C led to the appearance of STxB-containing tubular structures in HeLa cells",
+        "citekey": "romer2010actin",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 5A",
+            "SUPP FIG S1"
+        ]
+    },
+    {
+        "id": "akamatsulab-AP8l66U1L",
+        "claim": "Focal adhesion area decreased in A549 cells grown on softer PDMS substrates",
+        "citekey": "lee2022substrate",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 5",
+            "TAB 1"
+        ]
+    },
+    {
+        "id": "akamatsulab-Qo0PhBepV",
+        "claim": "NWASP was found around clusters of clathrin heavy chain by TIRF microscopy + super resolution microscopy",
+        "citekey": "leytonpuig2017flat",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 1E"
+        ]
+    },
+    {
+        "id": "akamatsulab-gW__kcqup",
+        "claim": "Membrane tether pulling on one part of a HeLa cell did not affect membrane tether force on another part of the cell",
+        "citekey": "shi2018cell",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 1A",
+            "FIG 1D"
+        ]
+    },
+    {
+        "id": "akamatsulab-841E070Cm",
+        "claim": "Knockdown of DNM2 via siRNA showed a reduction of 488-Choleratoxin internalization in differentiated neuronal CAD cells",
+        "citekey": "mcfarland2008rna",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 5"
+        ]
+    },
+    {
+        "id": "akamatsulab-IBn59ZWXY",
+        "claim": "Membrane mechanics simulations showed that 15 pN of force orthogonal to the plasma membrane base was sufficient to reshape a U shaped pit into a pinched shape",
+        "citekey": "hassinger2017design",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 6A",
+            "FIG 6B",
+            "FIG 6C",
+            "FIG 6D"
+        ]
+    },
+    {
+        "id": "akamatsulab-1-C-g0qCW",
+        "claim": "The curvature of the clathrin coat increased as a function of angle to the plasma membrane in SK-MEL2 cells fixed in plastic",
+        "citekey": "avinoam2015endocytic",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 3D"
+        ]
+    },
+    {
+        "id": "akamatsulab-NbFDiQaUh",
+        "claim": "Swip1 colocalized with actin at lamellipodia of CHO-K1 cells transfected with GFP-Swip1.",
+        "citekey": "kwon2013swiprosin1",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 1C"
+        ]
+    },
+    {
+        "id": "akamatsulab-TndUNP272",
+        "claim": "Measurements by super resolution microscopy showed a ~20 nm radial distance between Las17 (WASP) and MYO1 in budding yeast",
+        "citekey": "mund2018systematic",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 2F"
+        ]
+    },
+    {
+        "id": "akamatsulab-0AnyJYOE1",
+        "claim": "Overexpressed NWASP-GFP colocalized with fluorescent dextran spots in FRaTb cells",
+        "citekey": "chadda2007cholesterolsensitive",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 4C",
+            "FIG 4D",
+            "FIG 4G",
+            "FIG 4H"
+        ]
+    },
+    {
+        "id": "akamatsulab-Hcxv0n6n7",
+        "claim": "Internalisation of Transferrin (Tf), a marker of clathrin mediated endocytosis, was reduced 10 minutes, but not 1 hour after incubation when REF52 fribroblast cells were cultured on \"soft\" hydrogels, as opposed to \"intermediate\" or \"stiff\" hydrogels.",
+        "citekey": "missirlis2014effect",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 1A",
+            "FIG 1B",
+            "FIG 1C",
+            "FIG 1D"
+        ]
+    },
+    {
+        "id": "akamatsulab-Ga8ORIY8v",
+        "claim": "Higher rates of purified actin polymerization are seen with purified WAVE2 in the presence of purified IRSp53 as compared to WAVE2 alone in vitro.",
+        "citekey": "miki2000irsp53",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 5A",
+            "FIG 5B"
+        ]
+    },
+    {
+        "id": "akamatsulab-PECll5ZFw",
+        "claim": "B3 integrin lifetime increased by ~50% in the absense of B1 integrin and ICAP-1",
+        "citekey": "kyumurkov2023force",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 3E"
+        ]
+    },
+    {
+        "id": "akamatsulab-UlZY0Mnwt",
+        "claim": "hiPSCs at the colony edges showed large, paxillin-positive focal adhesions with thick actin stress fibers parallel to the colony edge.",
+        "citekey": "narva2017strong",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 1A"
+        ]
+    },
+    {
+        "id": "akamatsulab-iLicutBoX",
+        "claim": "Fluid uptake as measured by fluorescent 10kDa Dextran increased upon relaxation after mechanically induced stretch by vacuum-based equi-bi-axial stretching device in CHO cells.",
+        "citekey": "thottacherry2018mechanochemical",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 1C"
+        ]
+    },
+    {
+        "id": "akamatsulab-0-2tkuu4l",
+        "claim": "Using the TNT T7-coupled reticulocyte lysate systems kit, translated WT-IRSp53 incubated with GST was pulled down with N-WASP, whereas IRSp53(DELTA)SH3 did not pull down N-WASP.",
+        "citekey": "lim2008cdc42",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 3A"
+        ]
+    },
+    {
+        "id": "akamatsulab-lljpG3FsT",
+        "claim": "More actin accumulated at sites of clathrin-mediated endocytosis in SK-MEL-2 cells treated with hypo-osmotic shock to elevate membrane tension",
+        "citekey": "kaplan2022load",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 4C"
+        ]
+    },
+    {
+        "id": "akamatsulab-Whvj4Tjxl",
+        "claim": "Knocking down \u03b25-integrin resulted in loss of flat clathrin lattice expansion upon EGF treatment in HSC3-EGFR-GFP cells",
+        "citekey": "alfonzomendez2022dual",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 2A",
+            "FIG 2B",
+            "FIG 2C",
+            "FIG 2D",
+            "FIG 2E",
+            "FIG 2F",
+            "FIG 2G"
+        ]
+    },
+    {
+        "id": "akamatsulab-1Orp-fkjH",
+        "claim": "Cells injected with anti-cortactin antibodies decreased the degree of transferrin internalization into clone 9 cells",
+        "citekey": "cao2003cortactin",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 4"
+        ]
+    },
+    {
+        "id": "akamatsulab-1B3Jax3yY",
+        "claim": "Without clathrin-mediated endocytosis, flat-clathrin lattices and reticular adhesions could not form.",
+        "citekey": "hakanpaa2023reticular",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 4B"
+        ]
+    },
+    {
+        "id": "akamatsulab-iyjRL_mO4",
+        "claim": "Increased membrane tension, achieved by compression between a polymer cushion, resulted in increased clathrin coat lifetimes.",
+        "citekey": "ferguson2017mechanoregulation",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 2C"
+        ]
+    },
+    {
+        "id": "akamatsulab-de4YJna7K",
+        "claim": "hPSCs were found to exert strong inward-directed mechanical forces on the ECM at specific locations coinciding with VSFs at the colony edge.",
+        "citekey": "narva2017strong",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 2D"
+        ]
+    },
+    {
+        "id": "akamatsulab-32Cg5C3il",
+        "claim": "Branched actin filament barbed ends were densely oriented towards the clathrin coated vesicle in B16F1 Cells",
+        "citekey": "collins2011structural",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 4"
+        ]
+    },
+    {
+        "id": "akamatsulab-41SA-aHd6",
+        "claim": "As bending energy decreased in simulated endocytic actin filaments, the pit internalization increased proportionally",
+        "citekey": "akamatsu2020principles",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 5G",
+            "FIG 5H",
+            "FIG 5I"
+        ]
+    },
+    {
+        "id": "akamatsulab-pHdxFkkDB",
+        "claim": "eGFP-60mer and 120mer nanocages expressed in Arabodopsis with CAAX membrane binding showed a linear relationship between fluorescence intensity and molecule number",
+        "citekey": "alamos2021quantitative",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 2C",
+            "FIG 2D"
+        ]
+    },
+    {
+        "id": "akamatsulab-4u5hI2-Ys",
+        "claim": "The diameter of GRAF1-positive tubules by electron microscopy found in HeLa cells was ~40nm.",
+        "citekey": "lundmark2008gtpaseactivating",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 1G"
+        ]
+    },
+    {
+        "id": "akamatsulab-6-XC7noR7",
+        "claim": "siRNA silenced Swip1 showed reduced internalization of B1-integrin in MDA-MB-231 cells.",
+        "citekey": "morenolayseca2021cargospecific",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 1B"
+        ]
+    },
+    {
+        "id": "akamatsulab-MOrPymM0p",
+        "claim": "At zero seconds, 7000 actin proteins associated with endocytic invagination",
+        "citekey": "sirotkin2010quantitative",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 7A",
+            "FIG 7B"
+        ]
+    },
+    {
+        "id": "akamatsulab-B7UPmuzgg",
+        "claim": "N-WASP failed to recruit to forming CG endocytic sites.",
+        "citekey": "sathe2018understanding",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 5.4A"
+        ]
+    },
+    {
+        "id": "akamatsulab-jjw60hnsi",
+        "claim": "Clathrin-coated plaques formed on stiff substrates (<31 kPa) more than on softer substrates",
+        "citekey": "baschieri2018frustrated",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 1B",
+            "FIG 2A",
+            "FIG 1F",
+            "FIG 1A",
+            "FIG 1D"
+        ]
+    },
+    {
+        "id": "akamatsulab-82vjreeE4",
+        "claim": "WAVE2-ABI1 complex formation via immunoprecipitation was decreased in HeLa cells with GRAF1 knocked down by siRNA",
+        "citekey": "zhu2023graf1",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 4B"
+        ]
+    },
+    {
+        "id": "akamatsulab-snNy17hgh",
+        "claim": "Cells grown on stiffer substrates had more stalled clathrin-coated pits",
+        "citekey": "baschieri2018frustrated",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 1A",
+            "FIG 1B",
+            "FIG 1C",
+            "FIG 1D"
+        ]
+    },
+    {
+        "id": "akamatsulab-MmQ5WkYLJ",
+        "claim": "Actin marker Abp1-mRFP accumulated more slowly and disassembly was delayed at sites of endocytosis in a cof1-22 mutant in budding yeast",
+        "citekey": "okreglak2007cofilin",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 4"
+        ]
+    },
+    {
+        "id": "akamatsulab-vLtBWyJPZ",
+        "claim": "Flat clathrin sheet showed more non-hexagonal structures on lower-tension membranes in a computational model.",
+        "citekey": "cordella2014membrane",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 3",
+            "FIG 2"
+        ]
+    },
+    {
+        "id": "akamatsulab-7ioUQ5iO3",
+        "claim": "The percentage clathrin-coated structures with visible actin overlap decreased from ~50% to ~20% from flat to curved pits in four cell types by platinum-replica electron microscopy",
+        "citekey": "yang2022actin",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 2O"
+        ]
+    },
+    {
+        "id": "akamatsulab-iGBmi7cn0",
+        "claim": "In Clathrin lattice formation, Constant Area model is more credible.",
+        "citekey": "sochacki2021structure",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 1E",
+            "FIG 1F",
+            "FIG 2J",
+            "FIG 2K"
+        ]
+    },
+    {
+        "id": "akamatsulab-24El5w68I",
+        "claim": "siRNA silenced IRSp53 significantly reduced internalized 10kDa TMR Dextran, while siRNA silenced Swip1 did not in MDA-MB-231 cells.",
+        "citekey": "morenolayseca2021cargospecific",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 5B"
+        ]
+    },
+    {
+        "id": "akamatsulab-gOeTvBjuK",
+        "claim": "2 mins after addition, ~70% of a fluorescent monoclonal folate receptor-binding antibody was localized to internal spots nonoverlapping with spots marked by fluorescent transferrin",
+        "citekey": "sabharanjak2002gpianchored",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 2A",
+            "FIG 2B",
+            "FIG 2C",
+            "FIG 2D",
+            "FIG 2E",
+            "FIG 2F"
+        ]
+    },
+    {
+        "id": "akamatsulab-0LXSOKdht",
+        "claim": "Integrin \u03b1V\u03b25 correlated with flat clathrin lattices in human keratinocytes",
+        "citekey": "zuidema2018mechanisms",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 1C",
+            "FIG 1D"
+        ]
+    },
+    {
+        "id": "akamatsulab-Gv-IeF8Wl",
+        "claim": "The per-filament capping rate of __in vitro__ loaded actin filament networks decreased exponentially as a function of applied force",
+        "citekey": "li2022molecular",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 2C"
+        ]
+    },
+    {
+        "id": "akamatsulab-up45yF1mO",
+        "claim": "In loaded in vitro networks, VCA preferentially bound the free barbed ends of actin filaments rather than soluble actin monomers",
+        "citekey": "li2022molecular",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 4A",
+            "FIG 4B",
+            "FIG 4C",
+            "FIG 4D"
+        ]
+    },
+    {
+        "id": "akamatsulab-iNPTKMfD8",
+        "claim": "Of 10 genes investigated, the top 10 candidate off-target sites were not mutated based on sanger sequencing after Cas9 RNP electroporation",
+        "citekey": "roberts2017systematic",
+        "dataset": "akamatsulab",
+        "findings": [
+            "SUPP FIG S3",
+            "FIG 1B",
+            "FIG 1C",
+            "FIG 1D"
+        ]
+    },
+    {
+        "id": "akamatsulab-6r_duPu8G",
+        "claim": "Blocking integrin \u03b21 led to reversal of the inhibitory effect of fibronectin on flat formations lattice formation.",
+        "citekey": "hakanpaa2023reticular",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 6"
+        ]
+    },
+    {
+        "id": "akamatsulab-DHGP0FRjV",
+        "claim": "87 \u00b1 1.6% of all dynamin containing endocytic events displayed RFP beta actin recruitment",
+        "citekey": "grassart2014actin",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 4F"
+        ]
+    },
+    {
+        "id": "akamatsulab-YYYVszFr6",
+        "claim": "Pulldown assay of NIH3T3 lysates demonstrated a physical linkage between WAVE and Rac by IRSp53.",
+        "citekey": "miki2000irsp53",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 4A"
+        ]
+    },
+    {
+        "id": "akamatsulab-aKH5q105S",
+        "claim": "Lumenoids formed over 3 days in hESCs",
+        "citekey": "taniguchi2015lumen",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 1F"
+        ]
+    },
+    {
+        "id": "akamatsulab-F0N83vxEe",
+        "claim": "Knockdown of Dyn2 decreased the length of filopodia in H1299 cells",
+        "citekey": "yamada2016actin",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 3C"
+        ]
+    },
+    {
+        "id": "akamatsulab-9_9FlVy1D",
+        "claim": "Simulated endocytosis decreased as a function of membrane tension",
+        "citekey": "akamatsu2020principles",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 7"
+        ]
+    },
+    {
+        "id": "akamatsulab-ZblBen2ee",
+        "claim": "GFP-cdc42L61 (dominant-active) -expressing HeLa cells demonstrate co-localization with Myc-GRAF1 as shown by confocal microscopy images.",
+        "citekey": "lundmark2008gtpaseactivating",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 3D"
+        ]
+    },
+    {
+        "id": "akamatsulab--Sz9IbUra",
+        "claim": "Plasma membrane tension and stiffness increased in hepatic stellate cells as a function of substrate stiffness",
+        "citekey": "lachowski2022substrate",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 1D"
+        ]
+    },
+    {
+        "id": "akamatsulab-A6dSILE8L",
+        "claim": "OVCAR3 and HT1080 cells showed minimal folate receptor expression by immunofluorescence",
+        "citekey": "numasawa2020fluorescent",
+        "dataset": "akamatsulab",
+        "findings": [
+            "SUPP FIG S1"
+        ]
+    },
+    {
+        "id": "akamatsulab-iAzvRq7UW",
+        "claim": "FCHSD2 localization at sites of endocytosis formed a partial ring around the base of the endocytic site by STED microscopy",
+        "citekey": "almeidasouza2018flat",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 5D"
+        ]
+    },
+    {
+        "id": "akamatsulab-Ke0qFhkQL",
+        "claim": "Cortactin Knockdown by siRNA decreased the degree of transferrin endocytosis in MDA-MB-231 cells",
+        "citekey": "chen2006roles",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 1B"
+        ]
+    },
+    {
+        "id": "akamatsulab-A61nf3QNl",
+        "claim": "Fibronectin inhibited the formation of flat clathrin lattices and associated reticular adhesions",
+        "citekey": "hakanpaa2023reticular",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 2D"
+        ]
+    },
+    {
+        "id": "akamatsulab-MvZiM_zgO",
+        "claim": "U2O cells plated on Col IV and LN111 produced fibronectin which assembled into elongated fibrils.",
+        "citekey": "hakanpaa2023reticular",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 1C"
+        ]
+    },
+    {
+        "id": "akamatsulab-0JSkTOnvs",
+        "claim": "2000 pN of force produced by simulated fission yeast endocytic actin networks",
+        "citekey": "nickaeen2019actin",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 5A"
+        ]
+    },
+    {
+        "id": "akamatsulab-qOwFV9hTg",
+        "claim": "The majority of bending energy from simulated endocytic actin networks came from capped filaments",
+        "citekey": "akamatsu2020principles",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 5"
+        ]
+    },
+    {
+        "id": "akamatsulab-phR4apt3P",
+        "claim": "Actin polymerization kinetics assay showed that Hip1R-cortactin complex reduced actin assembly based on pyrene fluorescence",
+        "citekey": "leclainche2007hip1r",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 5B"
+        ]
+    },
+    {
+        "id": "akamatsulab-bZQte2Eb-",
+        "claim": "Association rate constant of Alexa-488-cofilin to rhodamine-actin filaments was 0.05-0.07 s^-1 uM^-1 for concentrations of cofilin less than 3 uM",
+        "citekey": "hayakawa2014singlemolecule",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 2C"
+        ]
+    },
+    {
+        "id": "akamatsulab-1SinPyIpx",
+        "claim": "Cosedimentation assays showed a binding affinity of 0.9 \u00b1 0.1 \u00b5M between Swip1 and actin in the presence of calcium",
+        "citekey": "lehne2022calcium",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 3D"
+        ]
+    },
+    {
+        "id": "akamatsulab-ZeSbzUTLA",
+        "claim": "Knockdown of integrin \u03b23 or \u03b15 in cancer associated fibroblasts (CAF's) reduced fibrillar fibronectin (but not secreted fibronectin) and migration of CT26 cancer cell spheroids.",
+        "citekey": "attieh2017cancerassociated",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 5D",
+            "FIG 4C",
+            "FIG 4B",
+            "FIG 4A"
+        ]
+    },
+    {
+        "id": "akamatsulab-FmR6Quoxu",
+        "claim": "__in vitro__ branched actin networks decreased in capping rate as a function of  growth stress",
+        "citekey": "li2022molecular",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 2B"
+        ]
+    },
+    {
+        "id": "akamatsulab-OT8BRD36j",
+        "claim": "Clathrin Light chains gives the clathrin lattice more stronger bending power.",
+        "citekey": "dannhauser2015effect",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 3"
+        ]
+    },
+    {
+        "id": "akamatsulab-_N-gQJ0eV",
+        "claim": "Expressing WT GFP-WASP in __wasA-__ mutants rescues confinement of active Rac to the leading edge of __Dictyostelium__ cells.",
+        "citekey": "amato2019wasp",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 5F"
+        ]
+    },
+    {
+        "id": "akamatsulab-nK9okhwH0",
+        "claim": "In H1299 cells, Knockdown of DNM2 with siRNA decreased the filopodial formation, and filopodia length",
+        "citekey": "yamada2016actin",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 3B"
+        ]
+    },
+    {
+        "id": "akamatsulab-4UYkBZdjG",
+        "claim": "hiPSCs at the edge of the colony had larger focal adhesions than cells in the hiPSC colony center",
+        "citekey": "narva2017strong",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 1D"
+        ]
+    },
+    {
+        "id": "akamatsulab-nwh8sv1mV",
+        "claim": "Cells grown on curved quartz substrates coated with fibronectin or vitronectin showed preferential localization of integrin B5 to curved parts of the substrate",
+        "citekey": "zhang2023curved",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 2I"
+        ]
+    },
+    {
+        "id": "akamatsulab-DSc19RzyF",
+        "claim": "Knockdown of DNM2 increases the acetylated microtubule, inducing the increased adenovirus trafficking in primary keratocyte",
+        "citekey": "lee2019impact",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 2C"
+        ]
+    },
+    {
+        "id": "akamatsulab-eryKP0bHY",
+        "claim": "Pulldown assay with Swiss3T3 lysates showed that GST-bound IRSp53 strongly associated with WAVE, but did not precipitate N-WASP.",
+        "citekey": "miki2000irsp53",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 1B"
+        ]
+    },
+    {
+        "id": "akamatsulab-y7NvExQj1",
+        "claim": "Nanocages ranging from 12-120 tagGFP2 molecules expressed in human induced pluripotent stem cells showed a linear relationship between intensity and number of molecules",
+        "citekey": "akamatsu2020principles",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 2D"
+        ]
+    },
+    {
+        "id": "akamatsulab-x0oKAeneB",
+        "claim": "WASP knockout (__wasA-__) __Dictyostelium__ cells displayed bipolar localization of active Rac, rather than localization to the leading edge.",
+        "citekey": "amato2019wasp",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 1C",
+            "FIG 1D"
+        ]
+    },
+    {
+        "id": "akamatsulab-fxWgfx7yr",
+        "claim": "The immunoelectron microscopy revealed that Cortactin localized on flat or dome shaped-clathrin lattice, and actin filament of COS7 cells",
+        "citekey": "cao2003cortactin",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 2D",
+            "FIG 2E",
+            "FIG 2F"
+        ]
+    },
+    {
+        "id": "akamatsulab-ZMI7u4SyM",
+        "claim": "Increased membrane tension due to hypotonic swelling resulted in increased clathrin coat lifetimes and reduction in standard deviation of clathrin growth rates.",
+        "citekey": "ferguson2017mechanoregulation",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 3A",
+            "FIG 3B",
+            "FIG 3C",
+            "FIG 3D",
+            "FIG 3E"
+        ]
+    },
+    {
+        "id": "akamatsulab-XG3wvRdRY",
+        "claim": "Overexpression of a cortactin mutant lacking 3 tyrosine residues reduced CME transferrin uptake by nearly 40%",
+        "citekey": "zhu2007receptormediated",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 1C"
+        ]
+    },
+    {
+        "id": "akamatsulab-iO13PSTbc",
+        "claim": "Knockdown of DNM2 reduced the transferrin internalization in neuronal differentiated CAD cells",
+        "citekey": "mcfarland2008rna",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 5"
+        ]
+    },
+    {
+        "id": "akamatsulab-x7qaygcfw",
+        "claim": "Membrane invagination occurred ~6 seconds after scission protein (spHob1-GFP) was detected in budding yeast cells",
+        "citekey": "sun2019direct",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 5D"
+        ]
+    },
+    {
+        "id": "akamatsulab-bpzU9tgBb",
+        "claim": "Nanodissected clathrin lattices in unroofed PTK2 cells relaxed to higher curvature, lower energy configurations",
+        "citekey": "tagiltsev2021nanodissected",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 4"
+        ]
+    },
+    {
+        "id": "akamatsulab-c4Ecoobt4",
+        "claim": "Endogenous Swip1 preferentially bound WT-Rab21 and constitutively active Rab21 over the closely related Rab5 GTPase in MDA-MB-231 cells.",
+        "citekey": "morenolayseca2021cargospecific",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 1E",
+            "FIG 1B"
+        ]
+    },
+    {
+        "id": "akamatsulab-eglh75iLo",
+        "claim": "Inhibition of CG pathway in CHO cells by LG186 resulted in no increase in fluid uptake as indicated by fluorescent 10kDa Dextran upon relaxation of membrane tension following stretch.",
+        "citekey": "thottacherry2018mechanochemical",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 3B"
+        ]
+    },
+    {
+        "id": "akamatsulab-uY8-oBWwy",
+        "claim": "Overexpression of the CRIB domain of N-WASP inhibited dextran and folate receptor but not transferrin internalization in FRaTb cells",
+        "citekey": "chadda2007cholesterolsensitive",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 3B"
+        ]
+    },
+    {
+        "id": "akamatsulab-Y0BOVsMrA",
+        "claim": "Fluorescent actin label generally localized to STxB-induced membrane tubules in HeLa cells",
+        "citekey": "romer2010actin",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 5B"
+        ]
+    },
+    {
+        "id": "akamatsulab-bDbdRTc20",
+        "claim": "The folate probe FolateRSense showed fluoresecence patterns in internal spots in OVCAR-3 cells",
+        "citekey": "numasawa2020fluorescent",
+        "dataset": "akamatsulab",
+        "findings": [
+            "SUPP FIG S2"
+        ]
+    },
+    {
+        "id": "akamatsulab-w0rQV7oyI",
+        "claim": "Deletion of Swip1-EF1 actin-binding region abolished Swip1 ability to facilitate integrin endocytosis.",
+        "citekey": "morenolayseca2021cargospecific",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 6C"
+        ]
+    },
+    {
+        "id": "akamatsulab-Q5F4o4kDA",
+        "claim": "Hepatic stellate cells grown in a 3D environment showed the same responses to high matrix stiffness as cells grown in 2D culture (TIMP-1 and Caveolin-1 overexpression)",
+        "citekey": "lachowski2022substrate",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 6A",
+            "FIG 6B",
+            "FIG 6C",
+            "FIG 6D",
+            "FIG 6E"
+        ]
+    },
+    {
+        "id": "akamatsulab-Vmwk-ddxa",
+        "claim": "FRaTb-1 cells transfected with dominant negative dnm2-K44A had similar or slightly increased levels of folate receptor antibody internalization",
+        "citekey": "sabharanjak2002gpianchored",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 5D"
+        ]
+    },
+    {
+        "id": "akamatsulab-92Xr7KIW0",
+        "claim": "Treatment of SK-MEL2 cells with Jasplakinolide resulted in slower assembly and disassembly rates of dynamin2-GFP at sites of endocytosis",
+        "citekey": "grassart2014actin",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 5F",
+            "FIG 5G"
+        ]
+    },
+    {
+        "id": "akamatsulab-L3a7k3HOw",
+        "claim": "The folate probe FolateRSense showed fluorescence patterns in internal spots and at the periphery of KB cells",
+        "citekey": "numasawa2020fluorescent",
+        "dataset": "akamatsulab",
+        "findings": [
+            "SUPP FIG S2"
+        ]
+    },
+    {
+        "id": "akamatsulab-5QnBT-MFL",
+        "claim": "Endogenously RFP-tagged clathrin light chain A recovered from photobleaching with a half life of 2 seconds at sites of endocytosis in SKMEL-2 cells",
+        "citekey": "avinoam2015endocytic",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 4"
+        ]
+    },
+    {
+        "id": "akamatsulab-c__rWg__T",
+        "claim": "IRSp53-/- MEFs or LG186-treated WT MEFs showed significant reduction in the number of CLICs per field, but no effect on clathrin or caveolae-derived structures.",
+        "citekey": "sathe2018small",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 3D"
+        ]
+    },
+    {
+        "id": "akamatsulab-CIyKP3Kxe",
+        "claim": "Steady-state ATPase rate of human myo1e motor and IQ domain pleateaued at 1.2 \u00b1 0.3/s",
+        "citekey": "mezgueldi2002kinetic",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 2"
+        ]
+    },
+    {
+        "id": "akamatsulab-oG3x2904t",
+        "claim": "CLIC/GEEC endosomes internalize GPI-anchored proteins.",
+        "citekey": "sathe2018small",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 1B",
+            "FIG 1A"
+        ]
+    },
+    {
+        "id": "akamatsulab-Tz9iPR6Hy",
+        "claim": "GFP-cofilin associated with actin patches between 3 and 4.2 s after initial association of actin/Abp1p -",
+        "citekey": "okreglak2007cofilin",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 1A"
+        ]
+    },
+    {
+        "id": "akamatsulab-C8_EKRIsh",
+        "claim": "GFP-tagged ARPC3/Arc18 at C terminus did not affect __in vitro__ actin nucleation rates",
+        "citekey": "egile2005mechanism",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 2"
+        ]
+    },
+    {
+        "id": "akamatsulab-Ed-cn4hbd",
+        "claim": "In Cav-/- MEFs, a dominant negative Dynamin mutant (DynK44A) showed an extensive tubular network of internalizing cholera toxin binding subunit (CTB), but inhibited trafficking of CTB to the Golgi.",
+        "citekey": "kirkham2005ultrastructural",
+        "dataset": "akamatsulab",
+        "findings": [
+            "SUPP FIG S4B",
+            "FIG 3A",
+            "SUPP FIG S4C"
+        ]
+    },
+    {
+        "id": "akamatsulab-RniLbP0dj",
+        "claim": "Angle between membrane and clathrin pit increased from 0 to 90 (early phase/U-shaped) and 90 to 180(neck construction & scission) -",
+        "citekey": "avinoam2015endocytic",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 1A"
+        ]
+    },
+    {
+        "id": "akamatsulab-L1nUdRWr2",
+        "claim": "GST-WAVE1 in presence of IRSp53 and GST-WAVE2 VCA demonstrate high rates of Arp2/3-mediated actin polymerization in vitro.",
+        "citekey": "miki2000irsp53",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 5C"
+        ]
+    },
+    {
+        "id": "akamatsulab-ht_gHxaFG",
+        "claim": "The peak number of molecules of twinfilin (Twf1p) per endocytic patch in fission yeast was measured to be 210(+/- 40) by fluorescence microscopy",
+        "citekey": "sirotkin2010quantitative",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 6F",
+            "FIG 6D"
+        ]
+    },
+    {
+        "id": "akamatsulab-7VUX5lkA_",
+        "claim": "Fluorescence microscopy and image analysis of fluorescently tagged clathrin, dynamin, and arp2/3 complex in hiPSCs showed ~30% of CME events completing in the absence of detectable actin assembly",
+        "citekey": "jin2022branched",
+        "dataset": "akamatsulab",
+        "findings": [
+            "SUPP FIG S4B"
+        ]
+    },
+    {
+        "id": "akamatsulab-ctop9ejQ4",
+        "claim": "Endocytic proteins Clathrin light chain A-RFP and dynamin2-GFP increased in lifetimes as a function of concentration of Arp2/3 complex inhibitor CK666 in SK-MEL-2 cells",
+        "citekey": "akamatsu2020principles",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 6C"
+        ]
+    },
+    {
+        "id": "akamatsulab-HAM7DEdlD",
+        "claim": "The GRAF1 inhibitor LG186 showed significantly reduced fluid phase uptake in WT MEFs that was comparable to the fluid phase uptake in IRSp53-/- MEFS.",
+        "citekey": "sathe2018small",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 3C"
+        ]
+    },
+    {
+        "id": "akamatsulab-yspWhgcnu",
+        "claim": "Association rate constant of cofilin to actin by presteady state kinetics was 0.008/uM/s",
+        "citekey": "cao2006energetics",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 3",
+            "TAB 2"
+        ]
+    },
+    {
+        "id": "akamatsulab-gFbw239AO",
+        "claim": "Mouse embryonic fibroblasts (MEFs) from IRSp53-/- mice showed a significantly reduced fluid phase uptake as compared to WT-addback MEFs without affecting transferrin receptor internalization .",
+        "citekey": "sathe2018small",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 3B"
+        ]
+    },
+    {
+        "id": "akamatsulab-rS-hEJjYE",
+        "claim": "Purified Arp2/3 complex activation by GST-WAVE2 and GST-WAVE2 VCA was stimulated in the presence of purified IRSp53 using pyrene-labelled and free monomeric actin in an actin polymerization kinetics study.",
+        "citekey": "miki2000irsp53",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 5A",
+            "FIG 5B"
+        ]
+    },
+    {
+        "id": "akamatsulab-ZWw9A8p4C",
+        "claim": "Between hPSC colonies plated on glass/polystyrene and on softer VTN-funtionalized hydrogels, no significant change in hPSC colony organizeation and no or modest change in FA number was observed.",
+        "citekey": "narva2017strong",
+        "dataset": "akamatsulab",
+        "findings": [
+            "SUPP FIG S2D",
+            "FIG 2",
+            "SUPP FIG S2"
+        ]
+    },
+    {
+        "id": "akamatsulab-ee1ItmKqR",
+        "claim": "The minimum number of yeast cofilin molecules required for severing is 23 +/- 11 molecules.",
+        "citekey": "gressin2015architecture",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 7",
+            "FIG 3"
+        ]
+    },
+    {
+        "id": "akamatsulab-9CPBwF3cc",
+        "claim": "The persistence length of non-stabilized actin in physiological ionic conditions was found to be $$9 \\pm 0.5 \\mu m$$",
+        "citekey": "isambert1995flexibility",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 2"
+        ]
+    },
+    {
+        "id": "akamatsulab-nDfNWJdL-",
+        "claim": "Co-sedimentation assay of purified Swip1/EFhd2 and actin showed actin binds to EFhd2 in vitro.",
+        "citekey": "park2016structural",
+        "dataset": "akamatsulab",
+        "findings": [
+            "FIG 5A",
+            "FIG 5B"
+        ]
+    },
+    {
+        "id": "BIOL403-ZsSZ8qIYT",
+        "claim": "Mean AP-2 fluorescence lifetime increased for VSV particles compared to DI-T particles and for other pits.",
+        "citekey": "cureton2010length",
+        "dataset": "BIOL403",
+        "findings": [
+            "FIG 3B",
+            "FIG 3C"
+        ]
+    },
+    {
+        "id": "BIOL403-2oMaUVZb3",
+        "claim": "Camostat, a TMPRSS2 inhibitor, had a significantly greater % inhibition for Delta pseudotyped virus (PV) than for Omicron PV when infecting A549 cells overexpressing ACE2 and TMPRSS2.",
+        "citekey": "meng2022altered",
+        "dataset": "BIOL403",
+        "findings": [
+            "FIG 3F"
+        ]
+    },
+    {
+        "id": "BIOL403-65HQLSARh",
+        "claim": "Both the mean LCa and Clathrin fluorescence lifetime increased for VSV particles compared to pit and DI-T.",
+        "citekey": "cureton2010length",
+        "dataset": "BIOL403",
+        "findings": [
+            "FIG 3D",
+            "FIG 3E"
+        ]
+    },
+    {
+        "id": "BIOL403-kibez2rYZ",
+        "claim": "Inhibiting polymerization of actin with latB reduced the internalization efficiency of VSV but not DI-T.",
+        "citekey": "cureton2010length",
+        "dataset": "BIOL403",
+        "findings": [
+            "FIG 6C"
+        ]
+    },
+    {
+        "id": "BIOL403-LfApmzbHq",
+        "claim": "AP-2 fluorescence intensity increased after DI-T attachment to the BSC1 cell as the clathrin-coated pit assembled",
+        "citekey": "cureton2010length",
+        "dataset": "BIOL403",
+        "findings": [
+            "FIG 2B"
+        ]
+    },
+    {
+        "id": "BIOL403-2HHW-wfqd",
+        "claim": "Electron microscopy showed that with increasing exposure to heat (37C), the number of HCoV-229E viruses localized with or near the orifices (neck) of caveolae increased, where \"cross-bridge structures of high electron density were frequently observed between virus particles and the plasma membrane.\"",
+        "citekey": "nomura2004human",
+        "dataset": "BIOL403",
+        "findings": [
+            "FIG 4A",
+            "FIG 4B"
+        ]
+    },
+    {
+        "id": "BIOL403-yLpL38PuF",
+        "claim": "The geometries and clathrin coverage of endocytic carries for internalization of DI-T and VSV particles were different when visualized using electron microscopy",
+        "citekey": "cureton2010length",
+        "dataset": "BIOL403",
+        "findings": [
+            "FIG 3A",
+            "FIG 3B"
+        ]
+    },
+    {
+        "id": "BIOL403-qrc8wp2qc",
+        "claim": "DI-T particles did not alter the process of clathrin-coated vesicle formation.",
+        "citekey": "cureton2010length",
+        "dataset": "BIOL403",
+        "findings": [
+            "FIG 3A",
+            "FIG 3B",
+            "FIG 3C",
+            "FIG 3D"
+        ]
+    },
+    {
+        "id": "BIOL403-on60mfeqE",
+        "claim": "\"Binding of HCoV-229E and incubation at 37\u00b0C caused clustering of CD13 and its colocalization with caveolin-1.\"",
+        "citekey": "nomura2004human",
+        "dataset": "BIOL403",
+        "findings": [
+            "FIG 3"
+        ]
+    },
+    {
+        "id": "BIOL403-W6_BwdDw8",
+        "claim": "AP-2 fluorescence in VSV particles is 2x higher and ~2x longer-lived than that of DI-T particles, which are comparable to non-viral endocytic pits; after AP-2 fluorescence peaks at 45s for VSV particles, it drops to 0 a.u. by 60s.",
+        "citekey": "cureton2010length",
+        "dataset": "BIOL403",
+        "findings": [
+            "FIG 3B"
+        ]
+    },
+    {
+        "id": "BIOL403-LgTH0yTQO",
+        "claim": "Pre-treatment of cells with the clathrin inhibitor Pitstop or Dynamin inhibitor MiTMAB reduced the number of internalized HCoV-NL63 particles in LLC-Mk2 cells",
+        "citekey": "milewska2018entry",
+        "dataset": "BIOL403",
+        "findings": [
+            "FIG 6A",
+            "FIG 6B",
+            "FIG 6C",
+            "FIG 6D"
+        ]
+    },
+    {
+        "id": "BIOL403-NwFQlJbzD",
+        "claim": "A strong inhibition of virus internalization in HAE cultures preincubated with clathrin or dynamin inhibitors (Pitstop and MitMAB) compared to DMSO-treated control cells was observed, using confocal microscopy.",
+        "citekey": "milewska2018entry",
+        "dataset": "BIOL403",
+        "findings": [
+            "FIG 7"
+        ]
+    },
+    {
+        "id": "BIOL403-UAYD3rA57",
+        "claim": "DI-T particles internalized in BSC1 cells through canonical, circular clathrin coated pits, while VSV particles internalized into Vero cells in non-canonical, oblong pits as shown by electron microscopy",
+        "citekey": "cureton2010length",
+        "dataset": "BIOL403",
+        "findings": [
+            "FIG 4A",
+            "FIG 4B"
+        ]
+    },
+    {
+        "id": "BIOL403-oH_7_-Ju7",
+        "claim": "Compared to the control with DMSO, there was significant inhibition of HCoV-NL63 infection in LLC-Mk2 cells",
+        "citekey": "milewska2018entry",
+        "dataset": "BIOL403",
+        "findings": [
+            "FIG 1A",
+            "FIG 1B",
+            "FIG 1C",
+            "FIG 1D"
+        ]
+    },
+    {
+        "id": "BIOL403-fZjAAn6XP",
+        "claim": "Electron microscopy showed a complete clathrin coat around DI-T particles, whereas VSV endocytic carriers seemed to be incompletely coated with clathrin.",
+        "citekey": "cureton2010length",
+        "dataset": "BIOL403",
+        "findings": [
+            "FIG 4A"
+        ]
+    },
+    {
+        "id": "BIOL403-fsXgzlA-a",
+        "claim": "Treatment with pitstop or MiTMAB reduced the number of infected LLC-Mk2 cells following incubation with the HCoV-NL63 virus.",
+        "citekey": "milewska2018entry",
+        "dataset": "BIOL403",
+        "findings": [
+            "FIG 9"
+        ]
+    },
+    {
+        "id": "BIOL403-uns4_1odd",
+        "claim": "During coated pit formation of DI-T, there was minimal cortactin recruitment (fluorescence), which peaked before full clathrin assembly",
+        "citekey": "cureton2010length",
+        "dataset": "BIOL403",
+        "findings": [
+            "FIG 5A",
+            "FIG 5B"
+        ]
+    },
+    {
+        "id": "BIOL403-DRplh7Vza",
+        "claim": "Cortactin intensity spiked at late timepoints during VSV internalization.",
+        "citekey": "cureton2010length",
+        "dataset": "BIOL403",
+        "findings": [
+            "FIG 5C"
+        ]
+    },
+    {
+        "id": "BIOL403-bPmO00UbS",
+        "claim": "Di-T and VSV spots colocalized with AP-2 and LCa over similar periods of time",
+        "citekey": "cureton2010length",
+        "dataset": "BIOL403",
+        "findings": [
+            "FIG 3B",
+            "FIG 3C",
+            "FIG 3D",
+            "FIG 3E"
+        ]
+    },
+    {
+        "id": "BIOL403-vKrivrfAQ",
+        "claim": "inhibition of actin polymerization drastically increases the the time of VSV internalization but not DI-T, as seen with increased time of AP-2 fluorescence.",
+        "citekey": "cureton2010length",
+        "dataset": "BIOL403",
+        "findings": [
+            "FIG 6B",
+            "FIG 6D"
+        ]
+    },
+    {
+        "id": "BIOL403-QK-IPLtB0",
+        "claim": "When human fibroblasts were treated with anti-CD13 antibody and anti-caveolin-1 antibody for 60 minutes at 37C, an increase in fluorescence of CD13 and colocalization of caveolin-1 was observed.",
+        "citekey": "nomura2004human",
+        "dataset": "BIOL403",
+        "findings": [
+            "FIG 2"
+        ]
+    },
+    {
+        "id": "BIOL403-o-DGibStS",
+        "claim": "LLC-MK2 cells showed no significant differences in replication of HCoV-NL63 under a controlled environment versus a camostat environment",
+        "citekey": "milewska2018entry",
+        "dataset": "BIOL403",
+        "findings": [
+            "FIG 11A",
+            "FIG 11B"
+        ]
+    },
+    {
+        "id": "BIOL403-1bD48wYTX",
+        "claim": "The creation of clathrin-coated pits in BSC1 cells showed minimal cortactin recruitment based on time lapse fluorescence assays",
+        "citekey": "cureton2010length",
+        "dataset": "BIOL403",
+        "findings": [
+            "FIG 5A",
+            "FIG 5B"
+        ]
+    },
+    {
+        "id": "BIOL403-8jYihJXs1",
+        "claim": "Cortactin intesity spikes during VSV internalization",
+        "citekey": "cureton2010length",
+        "dataset": "BIOL403",
+        "findings": [
+            "FIG 5B",
+            "FIG 5C",
+            "FIG 5D"
+        ]
+    },
+    {
+        "id": "BIOL403-C0vEc-VbK",
+        "claim": "Depletion of TMPRSS2 afftected the entry of WT and Delta PV to a greater extent than that of the Omicron PV, in a manner dependent on ACE2 expression levels.",
+        "citekey": "meng2022altered",
+        "dataset": "BIOL403",
+        "findings": [
+            "FIG 3C",
+            "FIG 3D"
+        ]
+    },
+    {
+        "id": "BIOL403-JEZVJFX83",
+        "claim": "E64d, a cathepsin inhibitor, had a significantly greater % inhibition for Omicron pseudotyped virus (PV) than for Delta PV.",
+        "citekey": "meng2022altered",
+        "dataset": "BIOL403",
+        "findings": [
+            "FIG 3F"
+        ]
+    },
+    {
+        "id": "BIOL403-kPjXx4aUP",
+        "claim": "VSV and DI-T particles are different lengths",
+        "citekey": "cureton2010length",
+        "dataset": "BIOL403",
+        "findings": [
+            "FIG 1C"
+        ]
+    },
+    {
+        "id": "BIOL403-8-zvLzqhz",
+        "claim": "There was a decrease in internalized viral particles when treated with classical clathrin-mediated endocytosis inhibitors Pitstop 2 and MiTMAB.",
+        "citekey": "milewska2018entry",
+        "dataset": "BIOL403",
+        "findings": [
+            "FIG 6A",
+            "FIG 6B",
+            "FIG 6C",
+            "FIG 6D"
+        ]
+    },
+    {
+        "id": "BIOL403-jUOkXBg6J",
+        "claim": "Using A549-ACE2/TMPRSS2 cells a noticeable, but not statistically significant, difference between live viral forms of omicron and delta, when treated with either TPRSS2 or cathepsin inhibitors",
+        "citekey": "meng2022altered",
+        "dataset": "BIOL403",
+        "findings": [
+            "FIG 3G"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-NAv6HKLye",
+        "claim": "Respondents were not very polarized in function of their party alignment in the US, with fewer than one in five scoring high on the polarization scale.",
+        "citekey": "johnsonBlindedSpitePath2017",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "TAB 2"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization--eEnETf9u",
+        "claim": "Heavy Facebook users were more likely to consume information from untrustworthy websites, which was often immediately preceded by a visit to Facebook.",
+        "citekey": "guessExposureUntrustworthyWebsites2020",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 4"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-dOZ6zAzVl",
+        "claim": "SEM modeling of social media use showed an indirect yet positive effect on polarization for moderate liberals via increased polarization",
+        "citekey": "leeDoesSocialMedia2018",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 2"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-wg-tL_YH6",
+        "claim": "According to a conditional latent growth curve model (LGM), American adults' online political expression increased support for their candidate.",
+        "citekey": "choInfluencingMyselfSelfReinforcement2018",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 2"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-PKXjaKH1E",
+        "claim": "Strong pro-refugee sentiment amongst Germans was associated with ~2x higher rates of higher education compared to strong anti-refugee sentiment",
+        "citekey": "arltBiasWantedExamining2018",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "TAB 4"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-RV0XA6D3B",
+        "claim": "The majority of Germans fall between extreme positions regarding refugees, with only a small minority expressing extreme pro-refugee or anti-refugee attitudes",
+        "citekey": "arltBiasWantedExamining2018",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "TAB 3"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-LP0AEgKvL",
+        "claim": "Polarized users in likewise polarized neighborhoods distributed their likes across their community pages in a similar way, both in science and conspiracy communities.",
+        "citekey": "brugnoliRecursivePatternsOnline2019",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 8"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-1OX4Ja3Bs",
+        "claim": "The interaction between dual national identity, identifying as both Hong Kongese and Chinese, and political use of social media was negatively associated with attitudinal polarization on position issues.",
+        "citekey": "kobayashiDepolarizationSocialMedia2020",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "TAB 1"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-GJX02PUU3",
+        "claim": "Self-reporting a dual nationality identity, identifying as both Hong Kongese and Chinese, was negatively associated with attitudinal polarization on valence issues in Hong Kong.",
+        "citekey": "kobayashiDepolarizationSocialMedia2020",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "TAB 1"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-rwVKYrlHN",
+        "claim": "Substantial selective exposure was heavily concentrated among a subset of Americans with conservative information diets.",
+        "citekey": "guessExposureUntrustworthyWebsites2020",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 1",
+            "TAB 1"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-BGpeJrpUb",
+        "claim": "According to a repeated-measures ANOVA, and latent growth curve modeling (LGM, unconditional model), individuals' candidate preferences grew more stable as Election Day approached.",
+        "citekey": "choInfluencingMyselfSelfReinforcement2018",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 2"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-w5xrqKLI_",
+        "claim": "According to analyses of Facebook data, people's egonets misrepresented how many friends other people have.",
+        "citekey": "feldEgonetsSystematicallyBiased2020",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 4"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-SVzr-eboO",
+        "claim": "Authors on the liberal sites were much more favorable toward left-leaning people and groups than authors on the conservative sites. In addition, those on the left- and right-leaning sites were more extreme than those at the moderate blog on this variable",
+        "citekey": "suhayForgingBondsBurning2015",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "TAB 1"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-CfQF8Cm-z",
+        "claim": "Fifty-five percent of issue-related conversations involved interactions between users from both sides of union debate.",
+        "citekey": "balcellsCrossingLinesTwitter2020",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 3"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-NwBCcwVBq",
+        "claim": "Extreme users strongly prioritized cognitive congruence in news sharing, in both pro- and anti-Bolsonaro communities. Ideological congruence become less important towards the network center.",
+        "citekey": "arugueteNewsSharingGatekeeping2020",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 7"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-TMN0eQB8C",
+        "claim": "For respondents in Hong Kong with a single identity, either only Hong Kongese or only Chinese, model estimates of affective polarization increased from 30\u00b0 to 40\u00b0 with frequent social media use, while for those with a dual identity, both Hong Kongese and Chinese, it decreased from 30\u00b0 to 12\u00b0 with frequent social media use.",
+        "citekey": "kobayashiDepolarizationSocialMedia2020",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 1"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-NTikknFZ7",
+        "claim": "Both Republican and Democrat users reported change in self-reported political ideology towards their own ideological extreme when exposed to opposing views on Twitter, yet only Republicans' effects were statistically significant",
+        "citekey": "bailExposureOpposingViews2018",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 3"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-gyOhM4gnR",
+        "claim": "Confidence in the president and Congress was positively associated with levels of selective exposure to social media in the US.",
+        "citekey": "johnsonBlindedSpitePath2017",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 3"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-G6Dt9EUlZ",
+        "claim": "AccoA Random Forest algorithm was able to predict the polarization of Twitter users with high accuracy and recall.",
+        "citekey": "marozzoAnalyzingPolarizationSocial2017",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 7"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-i61FjD7N_",
+        "claim": "Deactivating facebook reduced various measures of political polarization, particularly exposure to news that improve understanding of their own political party (vs. other party), and issue polarization, but not affective polarization.",
+        "citekey": "allcottWelfareEffectsSocial2020",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 3"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-r-1ymhoVX",
+        "claim": "Enthusiasm among US respondents toward the out-party presidential candidate was positively associated with disagreement expression on social media.",
+        "citekey": "choiEnthusiasmOtherSide2021",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "TAB 3"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-VlBq9h_85",
+        "claim": "According to SEM modeling, social media use was negatively associated with a shift towards conservatism for  political neutrals, and positively associated with a shift towards liberalism",
+        "citekey": "leeDoesSocialMedia2018",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 1"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-FnfG3r2bC",
+        "claim": "Facebook users who reported higher differences between feeling-thermometer measures for their own party vs. the other party registered more Facebook use which lead to over-time depolarization",
+        "citekey": "beamFacebookNewsPolarization2018",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 1"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-ttY5ZRIo8",
+        "claim": "The fragmentation of the audiences of Russian media outlets on the Vkontakte platform occurred mainly along political lines",
+        "citekey": "urmanNewsConsumptionRussian2019",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 3"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-GMnFJ3he4",
+        "claim": "SEM modeling showed that, for moderate conservatives, there was no direct or indirect effect of social media use for adopting extreme conservatism",
+        "citekey": "leeDoesSocialMedia2018",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 3"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-Wtxp_oJDN",
+        "claim": "Most of the users who retweeted rumor rebuttal tweets displayed the agree attitude. However, the users who commented on rumor rebuttal tweets had more diversified attitudes under various topics, with the majority of individuals holding query or unknown attitudes",
+        "citekey": "wangEchoChamberEffect2021",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 3",
+            "TAB 2"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-Zo4cVaD34",
+        "claim": "Longer lifetime and higher levels of activity of Facebook users corresponded with a lesser number of Facebook pages being consumed.",
+        "citekey": "schmidtPolarizationVaccinationDebate2018",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 3"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-sV9j_ssrE",
+        "claim": "All of the derogatory words used to talk about Remoaners on Twitter contain negative tribal associations.",
+        "citekey": "northBattleBritainAnalyzing2021",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 1B"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-AQy-nbEwf",
+        "claim": "27 out of 38 events of the Brexit timelines were associated with unusual spikes in the volume of tribal keywords outside of the normal range.",
+        "citekey": "northBattleBritainAnalyzing2021",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 2"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-85I3FMzkf",
+        "claim": "Smaller Japanese media outlets Twitter accounts had ideologically distinctive followers and were mainly isolated in the network.",
+        "citekey": "kobayashiNewsAudienceFragmentation2019",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 3"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-TEas5VTq3",
+        "claim": "More reputable outlets had greater incentives to adjust editorial lines. Less reputable outlets were already sending messages congruent to their preferred user.",
+        "citekey": "arugueteNewsSharingGatekeeping2020",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 9"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-YnZuD0iG2",
+        "claim": "Republican users exposed to opposing views on Twitter had an increase in conservatism between 0.11 and 0.59 standard deviations",
+        "citekey": "bailExposureOpposingViews2018",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 3"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-5xJkG_dQv",
+        "claim": "The majority of Facebook users were active either in the pro-vaccines or anti-vaccines community, not both.",
+        "citekey": "schmidtPolarizationVaccinationDebate2018",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 2"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-1JvBH0nCz",
+        "claim": "Only at the first wave of data, Facebook users who reported higher differences between feeling-thermometer measures for their own party vs. the other party were more likely to view news on Facebook",
+        "citekey": "beamFacebookNewsPolarization2018",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 1"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-DL7lKY_N6",
+        "claim": "Exposure to counter-attitudinal content on Facebook modestly decreased the affective polarization index compared to the pro-attitudinal treatment",
+        "citekey": "levySocialMediaNews2021",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 9"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-sffZqWHW4",
+        "claim": "Dual identifying Hong Kong residents were 14.8% more likely to have a weak partisan selectivity than single identifiers.",
+        "citekey": "kobayashiDepolarizationSocialMedia2020",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "TAB 1"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-PjQJXsOzF",
+        "claim": "Anger and anxiety among US respondents toward the out-party presidential candidate wass not associated with disagreement expression on social media.",
+        "citekey": "choiEnthusiasmOtherSide2021",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "TAB 3"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-tQy4sEF_R",
+        "claim": "Perceived polarization increased as a function of time spent reading a tweet, but only for Republican users",
+        "citekey": "banksPolarizedFeedsThreeExperiments2021",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 6",
+            "TAB 2"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-2L5_w1IYK",
+        "claim": "Deactivating Facebook boosted participants' perception of its role in improving news consumption and increased agreement on the potential impact of deactivating one's account.",
+        "citekey": "allcottWelfareEffectsSocial2020",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 8"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-aJngFbteo",
+        "claim": "deactivating Facebook resulted in improvements on measurements of subjective well-being",
+        "citekey": "allcottWelfareEffectsSocial2020",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 5"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-5OWXeEZWn",
+        "claim": "Selective exposure and selective avoidance predict polarization, but they are weaker indicators than strength of party ties.",
+        "citekey": "johnsonBlindedSpitePath2017",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 3"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-eIcyC6cqo",
+        "claim": "The level of encountered disagreement on social medi predicted the likelihood of expressing disagreement for US respondents, even when accounted for the initial level of expressed disagreement.",
+        "citekey": "choiEnthusiasmOtherSide2021",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "TAB 3"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-qyujJigSk",
+        "claim": "The retweeting and commenting user networks of rumor rebuttal under different topics showed highly modular structures; however, the large clusters in retweeting user networks showed high homophily, while the large clusters in commenting user networks had mixed attitudes",
+        "citekey": "wangEchoChamberEffect2021",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 4"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-PSA7511kK",
+        "claim": "According the a polarization index, Italian news sites are strongly polarizated on the issue of the Italian constitutional referendum.",
+        "citekey": "marozzoAnalyzingPolarizationSocial2017",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 8"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-7joN8S4Cb",
+        "claim": "Pro-attitudinal news uses were not found to mediate the relationship between Facebook use at wave 1 and higher differences between feeling-thermometer measures for users' own party vs. the other party at wave 3",
+        "citekey": "beamFacebookNewsPolarization2018",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 2"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-DH7kbqJd1",
+        "claim": "According to regression analysis, heterogeneous conversations were longer when they involved users who are placed on the more moderate and central positions of the debate, and were probably more disposed to hear the other side.",
+        "citekey": "balcellsCrossingLinesTwitter2020",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "TAB 4"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-V9kqzF5Vc",
+        "claim": "The variance of response about EU issues between those who got most of the news from social networks or other types of media was very small for participants who had positive predispositions toward the EU.",
+        "citekey": "nguyenTestingPopularNews2019",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "TAB 3"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-4pRj56pL2",
+        "claim": "Regression analyses of American adults showed that the relationship between political party and political opinions increased as people expressed themselves politically.",
+        "citekey": "choInfluencingMyselfSelfReinforcement2018",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "TAB 1"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-fjmFnfZxi",
+        "claim": "Germans across the ideological spectrum perceived the media to have biases favoring their opposing ideological group on the topic of refugees",
+        "citekey": "arltBiasWantedExamining2018",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "TAB 4"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-l-GuCGg0p",
+        "claim": "According to regression analysis, heterogeneity increased the level of depth of conversations.",
+        "citekey": "balcellsCrossingLinesTwitter2020",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "TAB 4",
+            "FIG 4"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-KwHHkPC99",
+        "claim": "SEM modeling showed that, among neutrals, social media use was positively associated with political engagement, which was also positively associated with political polarization toward liberalism.",
+        "citekey": "leeDoesSocialMedia2018",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 1"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-tad5MxAmU",
+        "claim": "According to a survey, educated Ethiopians believed that social media helps and hurts democracy in Ethiopia.",
+        "citekey": "worknehSocialMediaProtest2020",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 5"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-F6qxFkTUx",
+        "claim": "Facebook news use at wave 1 resulted in depolarization at wave 3 via exposure to counter-attitudinal news",
+        "citekey": "beamFacebookNewsPolarization2018",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 2"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-00d1hdyKn",
+        "claim": "According to regression analyses, individuals on WhatsApp and Twitter became more embedded in homophilic interaction networks than Facebook users.",
+        "citekey": "yarchiPoliticalPolarizationDigital2020",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "TAB 2"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-CYdetKaa4",
+        "claim": "Deactivating Facebook resulted in significant declines in both self-reported news attention and objectively measured news knowledge.",
+        "citekey": "allcottWelfareEffectsSocial2020",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 3"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-EEv4t_Zmw",
+        "claim": "Engaging in polarizing content increased the probability to have friends with similar characteristics.",
+        "citekey": "brugnoliRecursivePatternsOnline2019",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 5"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-D6WhqzXF4",
+        "claim": "The out-party feed increased affective polarization compared to the control group, but the difference was not statistically significant",
+        "citekey": "shmargadSortingNewsHow2020",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 8"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-fjnZM77gZ",
+        "claim": "The in-party feed slightly decreased affective polarization compared to the control group, but this difference was not statistically significant",
+        "citekey": "shmargadSortingNewsHow2020",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 8"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-J8B-ui82c",
+        "claim": "Most Japanese media accounts were followed on Twitter by both liberal and conservative users, and the followers of major media accounts overlapped to a significant extent.",
+        "citekey": "kobayashiNewsAudienceFragmentation2019",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 3"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-Oij-q4JsF",
+        "claim": "Republicans were more likely than Democrats to share extreme *pro*-Republican news sources and less likely to share extreme *pro*-Democratic news sources, and vice versa.",
+        "citekey": "osmundsenPartisanPolarizationPrimary2021",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 4"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-Q2jgcTrzF",
+        "claim": "The effect of being offered subscriptions to news outlets from the opposite ideological position on a political opinions index was small and not statistically significant.",
+        "citekey": "levySocialMediaNews2021",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 9"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-FhiobBveu",
+        "claim": "SEM modeling showed that social media use by liberals was positively associated with political engagement, and in turn, was positively associated with political polarization toward strong liberalism",
+        "citekey": "leeDoesSocialMedia2018",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 2"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-rW9j9BLFE",
+        "claim": "Estimating the conditional effects of the data for American adults showed that party identification predicted political opinions at any value of political expression, but the relationship was stronger when political expression was high.",
+        "citekey": "choInfluencingMyselfSelfReinforcement2018",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 1"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-Dnlq8A7OQ",
+        "claim": "The cognitive reflection test was weakly associated with sharing real news sources.",
+        "citekey": "osmundsenPartisanPolarizationPrimary2021",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 2"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-pz9Ofmmt_",
+        "claim": "The majority (80-90%)of networks of tweets about the Italian referendum shared links had the same model-estimated stance towards the referendum as the users who shared them. Retweet and quote networks had almost 100% of within-stance.",
+        "citekey": "laiStancePolarityPolitical2019",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "TAB 10"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-OzPq5b9Bu",
+        "claim": "Derogatory Brextremist discourse on Twitter included many terms that suggested lack of sanity (e.g., nutters, loonies) and references to fear and hatred of foreigners and destruction of Britain.",
+        "citekey": "northBattleBritainAnalyzing2021",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 1D"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-rw_F8t-BK",
+        "claim": "The variance of response about EU issues between those who got most of the news from social networks or other types of media was very small for participants who had negative  predispositions toward the EU.",
+        "citekey": "nguyenTestingPopularNews2019",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "TAB 2"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-wF7z2zjF7",
+        "claim": "Party identification predicts political opinions at any value of political expression but the relationship is stronger when political expression is high.",
+        "citekey": "choInfluencingMyselfSelfReinforcement2018",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 1"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-tsKBuSu4g",
+        "claim": "US respondents who self-reported selectively using social networking sites with political content that aligned with their own views were more likely to have a stronger difference in favorability ratings between Republican vs. Democratic parties.",
+        "citekey": "johnsonBlindedSpitePath2017",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 2"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-URbbXnWk0",
+        "claim": "According to regression analysis, social network heterogeneity positively influenced ethnic, ideological, and party polarization.",
+        "citekey": "kibetSociallyNetworkedHeterogeneity2019",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "TAB 3"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-b1nT-0nmZ",
+        "claim": "As shown by comparing percentages between Facebook, Twitter, and WhatsApp users, homophily was higher on Twitter and WhatsApp than Facebook.",
+        "citekey": "yarchiPoliticalPolarizationDigital2020",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 1"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-fZx8-Rfca",
+        "claim": "US survey respondents self-reported greater ideological distance between Donald Trump and Hillary Clinton after seeing negative campaign tweets from either candidate, compared to seeing no tweets",
+        "citekey": "banksPolarizedFeedsThreeExperiments2021",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 3",
+            "TAB 1"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-xkB9Y4f6Z",
+        "claim": "Users polarized towards a narrative tended to consume nearly exclusively content adhering to their system of beliefs.",
+        "citekey": "brugnoliRecursivePatternsOnline2019",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 4"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-nHQRpPGyv",
+        "claim": "Multiple mediation analyses showed that posting news in WhatsApp groups was associated with exposure to diverse perspectives.",
+        "citekey": "kibetSociallyNetworkedHeterogeneity2019",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "TAB 2"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-F0emNfngi",
+        "claim": "There were no striking divisions between users exposing different stances in the reply-to Twitter network of the Italian referendum.",
+        "citekey": "laiStancePolarityPolitical2019",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "FIG 9"
+        ]
+    },
+    {
+        "id": "dg-social-media-polarization-LSw8SXuEz",
+        "claim": "According to Poisson regression, women were underrepresented among top Instagram degrees, indicative of a glass ceiling effect (p.3).",
+        "citekey": "stoicaAlgorithmicGlassCeiling2018",
+        "dataset": "dg-social-media-polarization",
+        "findings": [
+            "TAB 1"
+        ]
+    },
+    {
+        "id": "megacoglab-zwlHilzun",
+        "claim": "Students provided expert instruction(A teacher with a P.H.D in physics) performed as well as groups given the same instruction by a different teacher and provided analogical instruction",
+        "citekey": "jacobsonSchemaAbstractionProductive2020",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 8"
+        ]
+    },
+    {
+        "id": "megacoglab-xMEXh8Glg",
+        "claim": "papers with high median conventionality and high tail atypical combinations of journals they cited were 2x more likely than average to be in top 5 percent of citation distribution",
+        "citekey": "uzziAtypicalCombinationsScientific2013",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 2"
+        ]
+    },
+    {
+        "id": "megacoglab-LJtUs-1OU",
+        "claim": "statistically significant but small differences in bibliometric measures of consensus across papers in physical, hard and soft biological, and social sciences",
+        "citekey": "fanelliBibliometricEvidenceHierarchy2013",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 4",
+            "TAB 2"
+        ]
+    },
+    {
+        "id": "megacoglab-3jTc6a_9h",
+        "claim": "natural experiment with inventors affected by the 1985 Michigan Antitrust Reform Act showed that patents filed by inventors who was new to the patent's field tended to receive fewer forward citations, but less so when they collaborated with an expert in the new field",
+        "citekey": "artsParadiseNoveltyLoss2018a",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 7"
+        ]
+    },
+    {
+        "id": "megacoglab-g8wge1Vez",
+        "claim": "Final advertisements from designers who prototyped designs in parallel performed better on advertising analytics compared to ads from designers who prototype designs serially",
+        "citekey": "dowParallelPrototypingLeads2010",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 7",
+            "TAB 1"
+        ]
+    },
+    {
+        "id": "megacoglab-uwJCgdA2o",
+        "claim": "undergraduates used more complex integration approaches (vs. property transfer and hybridization approaches) when generating definitions for noun phrases from dissimilar vs. similar noun pairs",
+        "citekey": "wilkenfeldSimilarityEmergenceConceptual2001",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 2"
+        ]
+    },
+    {
+        "id": "megacoglab-AZ-LvsLz_",
+        "claim": "students scored higher on biology post-test learning quizzes when given instruction with complex instructional analogies compared to no analogies",
+        "citekey": "bakerComplexInstructionalAnalogies2001",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 1",
+            "TAB 2"
+        ]
+    },
+    {
+        "id": "megacoglab-BV-n51_DU",
+        "claim": "There was an average of 33% improvement in forecasting accuracy (3 out of 4 debate questions answered more accurately.)",
+        "citekey": "irwinForecastingArgumentationFrameworks2022",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 2"
+        ]
+    },
+    {
+        "id": "megacoglab-inEj6W9YH",
+        "claim": "engineering students used more between-domain keywords used to search for patents in interactive visualization with VISION (functional component representations of patents compared to a standard Google Patents interface)",
+        "citekey": "songDesignbyAnalogyEffectsExplorationBased2022",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 12"
+        ]
+    },
+    {
+        "id": "megacoglab-TAgkEfWtq",
+        "claim": "Students given analogical instruction with two models performed better on far domain problems than students provided only a single model to study",
+        "citekey": "jacobsonSchemaAbstractionProductive2020",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 7",
+            "FIG 3"
+        ]
+    },
+    {
+        "id": "megacoglab-TkvbwvSxI",
+        "claim": "users were more likely to select clusters when an ACT-IF model's prediction of cluster profitability was equal to the expected rate of information gain",
+        "citekey": "pirolliInformationForaging1999",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 18"
+        ]
+    },
+    {
+        "id": "megacoglab-rjVivNG51",
+        "claim": "a substantial number of IDEO-designed products incorporated technological solutions from other industries",
+        "citekey": "hargadonTechnologyBrokeringInnovation1997",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 1"
+        ]
+    },
+    {
+        "id": "megacoglab-6ddZeIyjB",
+        "claim": "Subjective ratings of information scent model derived from the task environment with ACT-IF tightly correlated with users' judgments of information relevance on a Scatter-Gather task",
+        "citekey": "pirolliInformationForaging1999",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 16"
+        ]
+    },
+    {
+        "id": "megacoglab-e5Os8ZONI",
+        "claim": "natural experiment with inventors affected by the 1985 Michigan Antitrust Reform Act showed that patents filed by inventors who were new to the patent's field tended to be more novel",
+        "citekey": "artsParadiseNoveltyLoss2018a",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 7"
+        ]
+    },
+    {
+        "id": "megacoglab-r9OyxsAJe",
+        "claim": "patenting teams with a greater number of prior patenting fields were more likely to generate patents that were technological outliers",
+        "citekey": "kneelandExploringUnchartedTerritory2020",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 6"
+        ]
+    },
+    {
+        "id": "megacoglab-RTVDpn3Mv",
+        "claim": "A patent's odds of being an outlier increases by 1.20 times for each doubling of other patents cited",
+        "citekey": "kneelandExploringUnchartedTerritory2020",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 6"
+        ]
+    },
+    {
+        "id": "megacoglab-tYJs3SOGO",
+        "claim": "inventors' prior experience with knowledge in focal and citing US patents subclasses intensified the U-shaped relationship between technological complexity and exaptation",
+        "citekey": "mastrogiorgioInnovationExaptationIts2016",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 4"
+        ]
+    },
+    {
+        "id": "megacoglab-QgrzIjqGl",
+        "claim": "amongst 9 major medical question-answering systems, none addressed conflicting evidence or communicate uncertainty to clinicians",
+        "citekey": "kellWhatWouldIt2021",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 1"
+        ]
+    },
+    {
+        "id": "megacoglab-nSzMQuhLB",
+        "claim": "case-based reasoning system loaded with diverse cases increased overall novelty of ad campaign ideas, but only for people with lower creative ability",
+        "citekey": "althuizenSupportingCreativeProblem2014",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 1"
+        ]
+    },
+    {
+        "id": "megacoglab-nFbTK1YKO",
+        "claim": "Experts generated more analogies per minute than novices",
+        "citekey": "ballSpontaneousAnalogisingEngineering2004",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 1"
+        ]
+    },
+    {
+        "id": "megacoglab-LB6bYkRJj",
+        "claim": "higher levels of interdisciplinary associated with higher visibility",
+        "citekey": "leaheyProminentLessProductive2017",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 3"
+        ]
+    },
+    {
+        "id": "megacoglab-FLl3xFSpU",
+        "claim": "similar secondary attack rate for household contacts 18yo or less (compared to other age groups) in Midwestern US",
+        "citekey": "yousafProspectiveCohortStudy2020",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 1"
+        ]
+    },
+    {
+        "id": "megacoglab-3rIy1jtKe",
+        "claim": "teams were more likely than single or pair-authored papers to cite atypical combinations of journals",
+        "citekey": "uzziAtypicalCombinationsScientific2013",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 3A"
+        ]
+    },
+    {
+        "id": "megacoglab-inz0nxyak",
+        "claim": "undergrad 1980s textbooks in physics and chemistry cited far fewer texts compare to sociology textbooks",
+        "citekey": "coleHierarchySciences1983",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 10"
+        ]
+    },
+    {
+        "id": "megacoglab-_FWs0NXx5",
+        "claim": "Experts employed more schema-driven analogizing than case-driven analogizing; novices showed the reverse pattern",
+        "citekey": "ballSpontaneousAnalogisingEngineering2004",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 1"
+        ]
+    },
+    {
+        "id": "megacoglab-UIVkpC3D_",
+        "claim": "viewers in Twitch chat engaged in less bad behaviors after a user was banned by a moderator for that bad behavior",
+        "citekey": "seeringShapingProAntiSocial2017",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 8"
+        ]
+    },
+    {
+        "id": "megacoglab-FpvCvjJU9",
+        "claim": "interdisciplinary humanities scholars' work required a variety of information sources across different stages of exploration and translation work",
+        "citekey": "palmerInformationWorkInterdisciplinary2002",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 3"
+        ]
+    },
+    {
+        "id": "megacoglab-GxyCjeS8g",
+        "claim": "No analogical transfer amongst undergraduates between insight problems without hints about analogical mapping",
+        "citekey": "reedRoleAnalogyTransfer1974",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 1"
+        ]
+    },
+    {
+        "id": "megacoglab-L5D-9bBxY",
+        "claim": "approximately 2x lower prevalence of secondary cases for children vs. adults in households in Wuhan",
+        "citekey": "wangHouseholdTransmissionSARSCoV22020",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 1"
+        ]
+    },
+    {
+        "id": "megacoglab-nQ-MNtexz",
+        "claim": "researchers were far more likely to self-report communicating frequently with their collaborators in the planning and writing stages of the research process if they were physically proximate, especially next door offices",
+        "citekey": "krautPatternsContactCommunication1988",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 1D"
+        ]
+    },
+    {
+        "id": "megacoglab-GOqzI-lPp",
+        "claim": "engineering students more likely to generate ideas that directly copy (mostly within-domain) analogous patents when using Google Patents to retrieve patents, vs. VISION (interactive visualization with functional component representations of patents)",
+        "citekey": "songDesignbyAnalogyEffectsExplorationBased2022",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 9"
+        ]
+    },
+    {
+        "id": "megacoglab-RqfcscSpW",
+        "claim": "No secondary cases amongst secondary school students in a COVID cluster in Singapore with adults as index cases",
+        "citekey": "yungNovelCoronavirus20192020",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 1"
+        ]
+    },
+    {
+        "id": "megacoglab-udEyztUZu",
+        "claim": "majority of sample of 70 paper recommendation approaches were evaluated with offline approaches; only 7% were evaluated in real usage scenarios",
+        "citekey": "beelResearchPaperRecommender2013",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 1"
+        ]
+    },
+    {
+        "id": "megacoglab-pyNvD2Acy",
+        "claim": "three commercial facial recognition classifiers performed better on lighter vs. darker skinned subjects in the pilot parliaments benchmark dataset",
+        "citekey": "buolamwiniGenderShadesIntersectional2018",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 4"
+        ]
+    },
+    {
+        "id": "megacoglab-rllJ6VS1E",
+        "claim": "participants spent more time looking at content vs. organization in maps created by one other person, but equally at content and organization for maps that were iterated on by multiple people",
+        "citekey": "fisherDistributedSensemakingImproving2012",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 3",
+            "TAB 2"
+        ]
+    },
+    {
+        "id": "megacoglab-7GVGV9S2j",
+        "claim": "undergraduate students' ideas were more likely to include critical features of examples they had seen (relative to ideas of students who hadn't seen the examples)",
+        "citekey": "smithConstrainingEffectsExamples1993",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 1"
+        ]
+    },
+    {
+        "id": "megacoglab-KQ6aLkCGV",
+        "claim": "Molecular biologists with a reputation for innovation rarely used very far analogies in their lab meetings while generating novel scientific concepts; instead, they relied mainly on analogies to the same or other biological organisms",
+        "citekey": "dunbarHowScientistsThink1997",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 1"
+        ]
+    },
+    {
+        "id": "megacoglab-b8pGDFeTc",
+        "claim": "US patents filed by inventors who were new to the patent's field tended to receive fewer forward citations, but less so when they collaborated with an expert in the new field",
+        "citekey": "artsParadiseNoveltyLoss2018a",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 2"
+        ]
+    },
+    {
+        "id": "megacoglab-qbG7q-Tp_",
+        "claim": "Participants who marked up their own papers with a formal semantic scheme perceived the task of formally marking claims in the text to be intuitive, in contrast to formally marking rhetorical relations between claims",
+        "citekey": "grozaSALTWeavingClaim2007",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 7"
+        ]
+    },
+    {
+        "id": "megacoglab-R--E3kMiR",
+        "claim": "Two artists used individual artworks to shape not just their ideas, but used a process of \"analogical modification\" to search for and modify higher-order concepts, and their creative vision. This process unfolded over the course of years.",
+        "citekey": "okadaAnalogicalModificationCreation2009",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 10",
+            "FIG 3"
+        ]
+    },
+    {
+        "id": "megacoglab-C1uFTRfBX",
+        "claim": "less than 1% of pubpeer comments were positive reviews",
+        "citekey": "ortega2022classification",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 2",
+            "TAB 3"
+        ]
+    },
+    {
+        "id": "megacoglab-W3sdOb60i",
+        "claim": "US patents filed by inventors who were new to the patent's field tended to be more novel",
+        "citekey": "artsParadiseNoveltyLoss2018a",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 2"
+        ]
+    },
+    {
+        "id": "megacoglab-zHpJGF1Ih",
+        "claim": "undergraduates generated novel word combination noun phrases with more emergent features when noun pairs were dissimilar vs. similar",
+        "citekey": "wilkenfeldSimilarityEmergenceConceptual2001",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 1"
+        ]
+    },
+    {
+        "id": "megacoglab-lJcUil9G6",
+        "claim": "higher conceptual flexibility to classify organisms based on taxonomic and ecological relations if children were older, from more rural areas, and engaged in more unstructured interactions with organisms",
+        "citekey": "betzDevelopmentConceptualFlexibility2020",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 9"
+        ]
+    },
+    {
+        "id": "megacoglab-yMCU6h2YU",
+        "claim": "in an interview and survey, data scientists reported major (unsupported) pain points around sharing and collaborating on notebooks in data science teams",
+        "citekey": "chattopadhyayWhatWrongComputational2020",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 2",
+            "TAB 2"
+        ]
+    },
+    {
+        "id": "megacoglab-6e7Wu6JTF",
+        "claim": "overall marginally significant negative effect of analogically distant cases on creativity of campaign ad ideas, mostly for students with high creative ability",
+        "citekey": "althuizenSupportingCreativeProblem2014",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 2",
+            "TAB 2"
+        ]
+    },
+    {
+        "id": "megacoglab-2yEG0_6MI",
+        "claim": "engineering students who prototyped designs in parallel generated significantly more diverse designs compared to students who did iterative prototyping",
+        "citekey": "murphyComparingParallelIterative2022",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 5",
+            "TAB 2"
+        ]
+    },
+    {
+        "id": "megacoglab-zWGskgjzd",
+        "claim": "When provided visual analogies 4th graders performed better than the students given just the target concept. However, This was not observed in 5th graders.",
+        "citekey": "matlenEnhancingComprehensionScience",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 4",
+            "FIG 3"
+        ]
+    },
+    {
+        "id": "megacoglab-4oupzhYHs",
+        "claim": "No secondary cases amongst preschoolers in a COVID cluster in Singapore with a student as index case",
+        "citekey": "yungNovelCoronavirus20192020",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 1"
+        ]
+    },
+    {
+        "id": "megacoglab-fdgQruzE4",
+        "claim": "higher levels of interdisciplinarity was significantly associated with fewer publications, particularly in fields with less interdisciplinarity",
+        "citekey": "leaheyProminentLessProductive2017",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 3"
+        ]
+    },
+    {
+        "id": "megacoglab-ledAQMl6P",
+        "claim": "highest self-rated map quality, as measured by overall quality, and helpfulness to others, when creating map based on previous map that was iterated on by multiple people, compared to creating from scratch, and basing on a map created by one other person, for the same everyday sensemaking topic",
+        "citekey": "fisherDistributedSensemakingImproving2012",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 1"
+        ]
+    },
+    {
+        "id": "megacoglab-KxZbYojmj",
+        "claim": "Similar secondary attack rate for children vs. adults in Shenzen",
+        "citekey": "biEpidemiologyTransmissionCOVID192020",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 3"
+        ]
+    },
+    {
+        "id": "megacoglab-W-DsHoVoj",
+        "claim": "evaluators gave higher scores to biomed grant proposals that were farther from their domain of expertise",
+        "citekey": "boudreauLookingLookingKnowledge2016",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 4"
+        ]
+    },
+    {
+        "id": "megacoglab-IFtWTd_4B",
+        "claim": "Students were able to alter their conceptions after being provided with bridging analogies",
+        "citekey": "bryceEncouragingConceptualChange2005",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 4"
+        ]
+    },
+    {
+        "id": "megacoglab-v22_1oEQw",
+        "claim": "5x lower secondary attack rate for children compared to adults in households in China",
+        "citekey": "liCharacteristicsHouseholdTransmission2020",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 3"
+        ]
+    },
+    {
+        "id": "megacoglab-JZU-T5AFL",
+        "claim": "Scientists more often nonlinearly read subsections of papers for findings, hypotheses or other information, rather than linearly reading whole documents",
+        "citekey": "ribaupierreExtractingDiscourseElements2017",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 3",
+            "FIG 2"
+        ]
+    },
+    {
+        "id": "megacoglab-AyXYy7QOO",
+        "claim": "overall salience of taxonomic relations for organizing living things for 6-12 year old children during an initial card sort of the organisms",
+        "citekey": "betzDevelopmentConceptualFlexibility2020",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 3"
+        ]
+    },
+    {
+        "id": "megacoglab-Vpd-mdiMN",
+        "claim": "working in groups with others who share your initial bias towards a hypothesis intensified that bias over time, compared to working alone or with other students who preferred different hypotheses",
+        "citekey": "convertinoCACHEStudyGroup2008",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 6"
+        ]
+    },
+    {
+        "id": "megacoglab-NTnlzmqwG",
+        "claim": "an ACT-IF model's ranking of actions to do next on a Scatter-Gather task was a better fit to users' actual actions compared to a random model",
+        "citekey": "pirolliInformationForaging1999",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 17"
+        ]
+    },
+    {
+        "id": "megacoglab-sBhdunCTd",
+        "claim": "In a design team, concepts tended to be more similar to their immediately preceding concepts after far analogy use compared to using near or no analogies",
+        "citekey": "chanImpactAnalogiesCreative2015",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 1",
+            "TAB 11"
+        ]
+    },
+    {
+        "id": "megacoglab-SYNSopX8w",
+        "claim": "Participants who searched through clumpier distributions in space behaved as if words were more densely clumped in the Scrabble task",
+        "citekey": "hillsSearchExternalInternal2008",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 3"
+        ]
+    },
+    {
+        "id": "megacoglab-k3fuaSbE1",
+        "claim": "users from subreddits banned for hate speech did not engage in hate speech in new forums they joined",
+        "citekey": "chandrasekharanYouCanStay2017",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 3"
+        ]
+    },
+    {
+        "id": "megacoglab-wMIhhzUaI",
+        "claim": "participants who used ART - Voyager 2 explored ~25% more of the space of possible visualizations compared to a baseline system without wildcard and related views for recommended visualizations",
+        "citekey": "wongsuphasawatVoyagerAugmentingVisual2017",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 9"
+        ]
+    },
+    {
+        "id": "megacoglab-9c5iLH-3V",
+        "claim": "Far analogies' effects on MechE students' novelty of ideas were different depending on timing: more novel ideas when seeing them after problem solving began vs. before",
+        "citekey": "tsengRoleTimingAnalogical2008",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 5"
+        ]
+    },
+    {
+        "id": "megacoglab-p2hCTLXaE",
+        "claim": "Comparable secondary attack rate in households in China for children under 3 compared to other age groups",
+        "citekey": "wuHouseholdTransmissionSARSCoV22020",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 2"
+        ]
+    },
+    {
+        "id": "megacoglab-jScHaY6Fl",
+        "claim": "estimated semantic networks of animal concepts from montessori-educated children were more interconnected, with shorter paths between concepts and fewer subcommunities, compared to networks from traditional-schooled but comparable children",
+        "citekey": "denervaudEducationShapesStructure2021",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 1",
+            "FIG 2"
+        ]
+    },
+    {
+        "id": "megacoglab-fCGl7qdb0",
+        "claim": "researchers were more likely to collaborate with researchers whose offices were close by (e.g., same corridor or floor vs. different floor or building); pattern is robust to whether researchers were from the same department or not",
+        "citekey": "krautPatternsContactCommunication1988",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 1"
+        ]
+    },
+    {
+        "id": "megacoglab-k6yG1FHks",
+        "claim": "household secondary attack rate for children of index cases in Singapore was about 6 percent, and increased with age",
+        "citekey": "yungHouseholdTransmissionSevere2020",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB NA"
+        ]
+    },
+    {
+        "id": "megacoglab-ZkiOwUfXJ",
+        "claim": "No significant correlation between analogical distance of cross-industry inspirations and degree of innovation outcome (incremental, market or breakthrough, and radical)",
+        "citekey": "enkelCreativeImitationExploring2010",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 5"
+        ]
+    },
+    {
+        "id": "megacoglab-zGQwQiY6L",
+        "claim": "natural experiment with inventors affected by the 1985 Michigan Antitrust Reform Act showed that patents filed by inventor teams that included an expert in the patent's field tended to be less novel",
+        "citekey": "artsParadiseNoveltyLoss2018a",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 7"
+        ]
+    },
+    {
+        "id": "megacoglab-7Xw3gepU9",
+        "claim": "An additional 10 fields of experience doubles the probability of an inventor with average fields of experience being an outlier",
+        "citekey": "kneelandExploringUnchartedTerritory2020",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 6"
+        ]
+    },
+    {
+        "id": "megacoglab-pTruDj61B",
+        "claim": "Far analogies were rare and never used in psychology lab group meetings for reasoning (vs. mere mentions); in contrast, far analogies were frequently used in colloquia",
+        "citekey": "sanerAnalogiesOutBlue1999",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 3",
+            "TAB 2"
+        ]
+    },
+    {
+        "id": "megacoglab-kWpt95CTL",
+        "claim": "crowd workers were at chance accuracy in distinguishing human-written from GPT-3-written stories, news stories, and recipes",
+        "citekey": "clarkAllThatHuman2021",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 1",
+            "TAB 2"
+        ]
+    },
+    {
+        "id": "megacoglab-rGxlquhjc",
+        "claim": "teachers in countries with high math and science achievement scores also displayed more cognitive supports for analogies, such as bridging analogies, and visuospatial scaffolds for comparison, compared to teachers in a country with lower math and science achievement",
+        "citekey": "richlandCognitiveSupportsAnalogies2007",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG NA"
+        ]
+    },
+    {
+        "id": "megacoglab-YLzHxxCDY",
+        "claim": "People were ~2x worse at solving matchstick arithmetic problems when the elements were harder to decompose into chunks",
+        "citekey": "knoblichConstraintRelaxationChunk1999",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 3"
+        ]
+    },
+    {
+        "id": "megacoglab-uVqwN3vFt",
+        "claim": "groups generated more ideas within categories when individuals were given high-related (vs. low-related) categories",
+        "citekey": "baruahCategoryAssignmentRelatedness2011",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 1"
+        ]
+    },
+    {
+        "id": "megacoglab-BN8Vqws1Y",
+        "claim": "people who received inspirations on-demand transferred more structural features from examples compared to participants who received examples on a fixed schedule",
+        "citekey": "siangliulueProvidingTimelyExamples2015",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 6"
+        ]
+    },
+    {
+        "id": "megacoglab-02o3rSVIc",
+        "claim": "highly novel papers were more likely to be published in lower impact journals",
+        "citekey": "wangBiasNoveltyScience2017",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 3",
+            "TAB 6"
+        ]
+    },
+    {
+        "id": "megacoglab-FCz9hmMW4",
+        "claim": "When provided scaffolding for a similar problem students performed similarly compared to their peers given little scaffolding, however, when asked to solve problems with low similarity the group provided scaffolding performed significantly better.",
+        "citekey": "richlandReducingCognitiveLoad2013",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 2",
+            "TAB 3"
+        ]
+    },
+    {
+        "id": "megacoglab-lbRNxo-nM",
+        "claim": "groups given low-related categories of solutions ended up exploring more categories in their solutions compared to high-related category groups",
+        "citekey": "baruahCategoryAssignmentRelatedness2011",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 4",
+            "TAB 3"
+        ]
+    },
+    {
+        "id": "megacoglab-AD1_6mXtQ",
+        "claim": "working in groups with others who have different initial preferred hypotheses facilitated convergence away from the bias at similar rates to working alone",
+        "citekey": "convertinoCACHEStudyGroup2008",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 6"
+        ]
+    },
+    {
+        "id": "megacoglab-wlMJq0BJy",
+        "claim": "Self-rated technical distance from open innovation contest problems was slightly positively correlated with submitting winning solutions",
+        "citekey": "jeppesenMarginalityProblemsolvingEffectiveness2010",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 4"
+        ]
+    },
+    {
+        "id": "megacoglab-d77x3B_Ui",
+        "claim": "case-based reasoning system loaded with diverse cases increased overall usefulness and creativity of ad campaign ideas, especially for people with lower creative ability",
+        "citekey": "althuizenSupportingCreativeProblem2014",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 2",
+            "TAB 1"
+        ]
+    },
+    {
+        "id": "megacoglab-mPZM8-hmC",
+        "claim": "when given a (far) analogy for numerical representations, students did no better (and possibly worse) than on a post-test than not having it",
+        "citekey": "vamvakoussiBridgingGapDense2012",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 1"
+        ]
+    },
+    {
+        "id": "megacoglab-GL4yvLPha",
+        "claim": "low prevalence of EBPR references in state statutes and regulations pertaining to behavioral health care; 20 states had a total of 33 mandates that referenced an EBPR",
+        "citekey": "lee2022references",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 4"
+        ]
+    },
+    {
+        "id": "megacoglab-3sChuA1j8",
+        "claim": "No secondary cases amongst preschoolers in a COVID cluster in Singapore with adults as index cases",
+        "citekey": "yungNovelCoronavirus20192020",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 1"
+        ]
+    },
+    {
+        "id": "megacoglab-0dCO_io-p",
+        "claim": "increased word ambiguity in abstracts was associated with slightly lower modularity of citation networks for those abstracts",
+        "citekey": "mcmahanAmbiguityEngagement2018",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 2"
+        ]
+    },
+    {
+        "id": "megacoglab-t_AiQeKkK",
+        "claim": "evaluators gave lower scores to biomed grant proposals that were very novel; but higher scores to proposals that were somewhat novel",
+        "citekey": "boudreauLookingLookingKnowledge2016",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 5",
+            "FIG 3"
+        ]
+    },
+    {
+        "id": "megacoglab-xRWgPZXX9",
+        "claim": "Better model fit to Wuhan case data with age-dependent susceptibility, with children ~2x lower than adults",
+        "citekey": "cmmidcovid19workinggroupAgedependentEffectsTransmission2020",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 1",
+            "FIG 4"
+        ]
+    },
+    {
+        "id": "megacoglab-eEjsNkFV1",
+        "claim": "Members in a data science team mainly use meetings and documentations to develop shared understanding on a project",
+        "citekey": "wangHowDataScientists2019",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 2"
+        ]
+    },
+    {
+        "id": "megacoglab-iG1V6dHgy",
+        "claim": "Far analogies' effects on MechE students' ideation fluency and diversity were different depending on timing: more ideas (but with more functional repeats) before ideation began, vs. more functionally distinct designs after problem solving began (during a break), both compared to seeing nothing",
+        "citekey": "tsengRoleTimingAnalogical2008",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 4"
+        ]
+    },
+    {
+        "id": "megacoglab-PDfEGZaLe",
+        "claim": "\ud83d\udd11Outlier Patents receive more citations on average than \ud83d\udd11Adjacent Patents",
+        "citekey": "kneelandExploringUnchartedTerritory2020",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 1"
+        ]
+    },
+    {
+        "id": "megacoglab-MLSP020ju",
+        "claim": "Generating (but not evaluating) solutions to far analogy problems positively predicted performance on a subsequent analogy task (compared to generating or evaluating near analogy problems)",
+        "citekey": "vendettiFarOutThinkingGenerating2014",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 2"
+        ]
+    },
+    {
+        "id": "megacoglab-ML0rEDL6_",
+        "claim": "higher salience of ecological relations for organizing living things for children from rural vs. urban communities",
+        "citekey": "betzDevelopmentConceptualFlexibility2020",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 2"
+        ]
+    },
+    {
+        "id": "megacoglab-1A-vRkLMT",
+        "claim": "highly novel papers had higher variance in their citation outcomes over a 15-year window, biased towards the higher impact tail of the distribution",
+        "citekey": "wangBiasNoveltyScience2017",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 1A",
+            "TAB 2"
+        ]
+    },
+    {
+        "id": "megacoglab-5gJjNdjMH",
+        "claim": "US patents filed by inventor teams that included an expert in the patent's field tended to be less novel",
+        "citekey": "artsParadiseNoveltyLoss2018a",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 2"
+        ]
+    },
+    {
+        "id": "megacoglab-9ic6uJY1D",
+        "claim": "Women were more likely than men to submit winning solutions for open innovation contests",
+        "citekey": "jeppesenMarginalityProblemsolvingEffectiveness2010",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 4"
+        ]
+    },
+    {
+        "id": "megacoglab-Ig-q6lfVE",
+        "claim": "Only small business owners with high divergent thinking ability generated more ideas with diverse (vs. constrained) stimuli",
+        "citekey": "gielnikCreativityOpportunityIdentification2011",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 4",
+            "FIG 2"
+        ]
+    },
+    {
+        "id": "megacoglab-2C17QaTLH",
+        "claim": "science students made more planning errors and fewer structural errors on a spatial block design task; architecture students made fewer planning errors and more structural errors",
+        "citekey": "lawsonCognitiveStrategiesArchitectural1979",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 1"
+        ]
+    },
+    {
+        "id": "megacoglab-2mTPyT8sj",
+        "claim": "Limited increases in transfer between analogous insight problems when explicit hint (mapping + solution) was given",
+        "citekey": "reedRoleAnalogyTransfer1974",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 1"
+        ]
+    },
+    {
+        "id": "megacoglab-hZB-PgxZX",
+        "claim": "~60 percent of InstructGPT-generated analogical explanations for scientific concepts were rated by crowd workers as containing a meaningful analogy, comparable to human-generated analogies",
+        "citekey": "bhavyaAnalogyGenerationPrompting2022",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 10"
+        ]
+    },
+    {
+        "id": "megacoglab-mtKPi-Abu",
+        "claim": "no overall effect of analogical distance of cases on novelty or usefulness of campaign ad ideas",
+        "citekey": "althuizenSupportingCreativeProblem2014",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 2"
+        ]
+    },
+    {
+        "id": "megacoglab-u2Rw1hwtY",
+        "claim": "College students imagined novel alien creatures with more atypical features vs. Earth creatures when they were instructed to consider survival-critical features of life forms, vs. building on specific Earth animal exemplars",
+        "citekey": "wardRoleSpecificityAbstraction2004",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 1"
+        ]
+    },
+    {
+        "id": "megacoglab-I5ElqeQBh",
+        "claim": "prevalence of COVID (excluding first-reported case) increased with age in New York State, ~2x lower for children and youth compared to adults",
+        "citekey": "rosenbergCOVID19TestingEpidemic2020",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 2"
+        ]
+    },
+    {
+        "id": "megacoglab-PNHl7tkly",
+        "claim": "10 scholars self-reported that they read specific fragments and sections, such as findings and background and references, in patterns that varied by tasks such as keeping track, finding new ideas, and writing articles or new projects",
+        "citekey": "ribaupierreExtractingDiscourseElements2017",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 2"
+        ]
+    },
+    {
+        "id": "megacoglab-JszLLa3Q4",
+        "claim": "Experienced facilitator participants created inspirations for crowd brainstormers with strategies like crafting simulation prompts or inquiries, in contrast to novice facilitators, who relied more heavily on simply passing on examples without further processing",
+        "citekey": "chanImprovingCrowdInnovation2016",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 2"
+        ]
+    },
+    {
+        "id": "megacoglab-5ypAq6Csv",
+        "claim": "A patent's odds of being an outlier increases by 1.05 times for each doubling of scientific articles cited",
+        "citekey": "kneelandExploringUnchartedTerritory2020",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 6"
+        ]
+    },
+    {
+        "id": "megacoglab-_QOSgyUEe",
+        "claim": "~half of InstructGPT-generated analogies for a small benchmark science analogy dataset matched the reference set; ~70 percent were valid",
+        "citekey": "bhavyaAnalogyGenerationPrompting2022",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 3"
+        ]
+    },
+    {
+        "id": "megacoglab-J9X-JZ5b5",
+        "claim": "Prior patenting experience is negatively related to the likelihood of being granted \ud83d\udd11Outlier Patents",
+        "citekey": "kneelandExploringUnchartedTerritory2020",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 6"
+        ]
+    },
+    {
+        "id": "megacoglab-N3idE-TeS",
+        "claim": "Papers citing papers that refute the Hawthorne effect predominantly cited those papers to (incorrectly) affirm the Hawthorne effect",
+        "citekey": "letrudAffirmativeCitationBias2019",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 1",
+            "FIG 2",
+            "TAB 1",
+            "TAB 2",
+            "FIG 3",
+            "TAB 3"
+        ]
+    },
+    {
+        "id": "megacoglab-H-9bped9d",
+        "claim": "the sensemaking translucence interface significantly improved clue finding and crime solving performance",
+        "citekey": "goyalEffectsSensemakingTranslucence2016",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 4"
+        ]
+    },
+    {
+        "id": "megacoglab-GvDDTwcsJ",
+        "claim": "In general, MechE students' ideas when given near analogies were at least as novel, and sometimes moreso, then ideas generated with far analogies, or seeing nothing",
+        "citekey": "tsengRoleTimingAnalogical2008",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 5"
+        ]
+    },
+    {
+        "id": "megacoglab-Qt5iwJecI",
+        "claim": "after noticing a key element of a problem representation for the mutilated checkerboard problem (namely the lack of parity between the squares on the checkerboard), solutions to the problem came almost immediately after",
+        "citekey": "kaplanSearchInsight1990",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 2"
+        ]
+    },
+    {
+        "id": "megacoglab-kvQUSZy5J",
+        "claim": "higher estimated helpfulness and clarity of map from others for their own sensemaking for an everyday sensemaking task when the map was iterated on by multiple people vs. created by one person",
+        "citekey": "fisherDistributedSensemakingImproving2012",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 1"
+        ]
+    },
+    {
+        "id": "megacoglab-3BGDkcK-w",
+        "claim": "Only small business owners with high divergent thinking ability generated more original ideas with diverse (vs. constrained) stimuli",
+        "citekey": "gielnikCreativityOpportunityIdentification2011",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 4",
+            "FIG 3"
+        ]
+    },
+    {
+        "id": "megacoglab-Smh3nQpqn",
+        "claim": "Participants who marked up their own papers with a formal semantic scheme self-reported that formally marking rhetorical relations between claims seemed less clear in terms of payoff compared to formally making claims",
+        "citekey": "grozaSALTWeavingClaim2007",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 8B"
+        ]
+    },
+    {
+        "id": "megacoglab-X9jkreduk",
+        "claim": "direct comparison of dissimilar analogs approximately doubled rates of spontaneous far analogical transfer for the radiation problem",
+        "citekey": "gickSchemaInductionAnalogical1983",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 5"
+        ]
+    },
+    {
+        "id": "megacoglab-TE2krdmGY",
+        "claim": "Lower secondary attack rate in households in China for children 4-18 compared to other age groups",
+        "citekey": "wuHouseholdTransmissionSARSCoV22020",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 2"
+        ]
+    },
+    {
+        "id": "megacoglab-C5L_KQ5fy",
+        "claim": "higher levels of interdisciplinarity associated with higher variance in their interdisciplinary papers' citation outcomes",
+        "citekey": "leaheyProminentLessProductive2017",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 3"
+        ]
+    },
+    {
+        "id": "megacoglab-4cjTc4Vju",
+        "claim": "Universities are 1.36 times more likely to file \ud83d\udd11Outlier Patents than non-universities",
+        "citekey": "kneelandExploringUnchartedTerritory2020",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 6"
+        ]
+    },
+    {
+        "id": "megacoglab-lMdlmzR0o",
+        "claim": "most undergrad 1980s textbooks in physics and chemistry cited work published before 1960; sociology texts mostly cited work published after 1960",
+        "citekey": "coleHierarchySciences1983",
+        "dataset": "megacoglab",
+        "findings": [
+            "TAB 10"
+        ]
+    },
+    {
+        "id": "megacoglab--wTYRJFK3",
+        "claim": "when placed in the same semantic space, computationally selected near and far analogical stimuli were farther away from human-selected near and far analogical stimuli for the same problem",
+        "citekey": "fuMeaningFarImpact2013",
+        "dataset": "megacoglab",
+        "findings": [
+            "FIG 6"
+        ]
+    }
+]
