@@ -1,6 +1,6 @@
 # Context24: Dataset repository for SDPROC Shared Task: Context24: Contextualizing Scientific Figures and Tables
 
-This repository will host the training/dev datasets and evaluation scripts for the [2024 Workshop on Scholarly Document Processing](https://sdproc.org/2024/sharedtasks.html#context24) Shared Task: **Context24: Contextualizing Scientific Figures and Tables**
+This repository hosts the training/dev datasets and evaluation scripts for the [2024 Workshop on Scholarly Document Processing](https://sdproc.org/2024/sharedtasks.html#context24) Shared Task: **Context24: Contextualizing Scientific Figures and Tables**
 
 ## Dataset and directory structure
 
@@ -74,7 +74,7 @@ Scoring will be done using NDCG at 5 and 10. More details in `eval1.py` in `eval
 
 ### Training and dev data description
 
-There are 393 total scientific claims across the four datsets, in the following breakdown
+There are currently 393 total scientific claims across the four datsets, in the following breakdown
 
 | Dataset                      | N   |
 | ---------------------------- | --- |
@@ -82,6 +82,8 @@ There are 393 total scientific claims across the four datsets, in the following 
 | BIOL403                      | 29  |
 | dg-social-media-polarization | 76  |
 | megacoglab                   | 122 |
+
+Approximately 100 more are forthcoming by ~April 19.
 
 ## Task 2: Grounding Context Identification
 
