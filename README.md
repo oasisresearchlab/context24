@@ -2,6 +2,14 @@
 
 This repository hosts the training/dev datasets and evaluation scripts for the [2024 Workshop on Scholarly Document Processing](https://sdproc.org/2024/sharedtasks.html#context24) Shared Task: **Context24: Contextualizing Scientific Figures and Tables**
 
+## Background and Problem
+
+People read and use scientific claims both within the scientific process (e.g., in literature reviews, problem formulation, making sense of conflicting data) and outside of science (e.g., evidence-informed deliberation). When doing so, it is critical to **contextualize** claims with key supporting empirical evidence (e.g., figures of key results) and methodological details (e.g., measures, sample).
+
+However, retrieving this contextual information when encountering and using claims in the moment (often far removed from the source materials and data) is difficult and time-consuming. Can we train AI models to help with this?
+
+To assist with development of such models, this dataset containts ~500 examples of scientific claims actually in use in lab notes and discussions for synthesis and research planning, across domains of biology, computer science, and the social sciences. For all of these claims, the dataset includes “gold” annotations for figures/tables that ground the key results behind each claim (this is “Task 1” for the workshop: see below). For a subset of these claims, we have “gold” examples of text snippets that describe the key methodological details that ground each claim (this is “Task 2” for the workshop: see below).
+
 ## Dataset and directory structure
 
 The claims and papers from this task come from four separate datasets, each of which comes from a different set of research domains.
@@ -141,3 +149,9 @@ Task 2 is a "test-only" task. In liueu of training data, we are releasing a smal
 | ---------------------------- | --- |
 | akamatsulab                  | 28 |
 | megacoglab                   | 14 |
+
+## Evaluation and Submission
+
+The eval scripts in `eval/` expect a CSV of predictions as input.
+
+More documentation coming soon on the format.
