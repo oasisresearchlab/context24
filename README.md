@@ -152,6 +152,56 @@ Task 2 is a "test-only" task. In liueu of training data, we are releasing a smal
 
 ## Evaluation and Submission
 
-The eval scripts in `eval/` expect a CSV of predictions as input.
+You can see how we will evaluate submissions --- both in terms of scoring, and prediction file format and structure --- for Task 1 and 2 by running the appropriate eval script for your predictions. 
 
-More documentation coming soon on the format.
+Details on submission mechanics (e.g., whether you will submit prediction files directly to organizers, or to a benchmarking platform) will be finalized soon......................................
+
+### Task 1
+
+Predictions for this task should be in a `.csv` file with two columns:
+1. The claim id (e.g., `megacoglab-W3sdOb60i`)
+2. The predicted figure/table ranking, which will be comma-separated string of figure/table names, from highest to lowest ranking
+
+Example:
+```
+claimid,predictions
+megacoglab-W3sdOb60i,"FIG 1, TAB 1"
+```
+
+> [!WARNING]
+> The script expects a header row, so make sure your csv has a header row, otherwise the first row of your predictions will be skipped. The names in the header row do not matter, because but we don't use the header names to parse the predictions data.
+
+
+To get scores for your predictions, inside the `eval/` subdirectory, run `task1_eval.py` as follows:
+
+```....
+python task1_eval.py --pred_file <path/to/predictionfilename>.csv --gold_file ../task1-train-dev.json --parse_folder ../figures-tables
+```
+
+You can optionally add `--debug True` if you want to dump scores for individual predicions for debugging/analysis.
+
+### Task 2
+
+Predictions for this task should be in a `.json` file (similar in structure to the training-dev file) where each entry has the following fields:
+1. `id` (id of the claim)
+2. `context` (list of predicted snippets: order is not important)
+
+Before running the eval script for task 2, you will need to first install required dependencies of`bert-score` and `rouge-score`.
+
+`bert-score`: https://github.com/Tiiiger/bert_score
+
+```
+pip install bert-score
+```
+
+`rouge-score`:
+
+```
+pip install rouge-score
+```
+
+Then run the `task2_eval.py` script in the following format:
+
+```
+python task1_eval.py --pred_file <path/to/predictionfilename>.json --gold_file ../task1-train-dev.json --parse_folder ../figures-tables
+```
