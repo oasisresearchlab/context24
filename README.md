@@ -82,6 +82,9 @@ Each claim corresponds to a paper via the `citekey` field. The figures, tables, 
 
 Scoring will be done using NDCG at 5 and 10. More details in `eval1.py` in `eval/`.
 
+> [!NOTE]
+> Many figures are compound figures, with labeled subfigures (e.g., FIG 1A, FIG 1B). Sometimes the relevant grounding figure is a subfigure, and sometimes it is the whole (parent) figure. We therefore provide figure parses for each parent figure as well as its subfigures (e.g., we provide both FIG 1 and FIG 1A, FIG 1B). And, accordingly, for NDCG scoring, predicted images that are parent/sub-figures of a gold figure label receive a relevance score of 0.5.
+
 ### Training and dev data description
 
 There are currently 474 total scientific claims across the four datsets, in the following breakdown
