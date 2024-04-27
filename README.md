@@ -8,7 +8,7 @@ People read and use scientific claims both within the scientific process (e.g., 
 
 However, retrieving this contextual information when encountering and using claims in the moment (often far removed from the source materials and data) is difficult and time-consuming. Can we train AI models to help with this?
 
-To assist with development of such models, this dataset containts ~500 examples of scientific claims actually in use in lab notes and discussions for synthesis and research planning, across domains of biology, computer science, and the social sciences. For all of these claims, the dataset includes “gold” annotations for figures/tables that ground the key results behind each claim (this is “Task 1” for the workshop: see below). For a subset of these claims, we have “gold” examples of text snippets that describe the key methodological details that ground each claim (this is “Task 2” for the workshop: see below).
+To assist with development of such models, this dataset containts 474 examples of scientific claims actually in use in lab notes and discussions for synthesis and research planning, across domains of biology, computer science, and the social sciences. For all of these claims, the dataset includes “gold” annotations for figures/tables that ground the key results behind each claim (this is “Task 1” for the workshop: see below). For a subset of these claims, we have “gold” examples of text snippets that describe the key methodological details that ground each claim (this is “Task 2” for the workshop: see below).
 
 ## Dataset and directory structure
 
@@ -21,8 +21,10 @@ The claims and papers from this task come from four separate datasets, each of w
 The directory structure is as follows:
 ```
 task1-train-dev.json
+task1-train-dev-2024-04-25-update.json
 task2-train-dev.json
 fulltexts.json
+fulltexts-2024-04-25-update.json
 figures-tables/
 	citekey/
 		FIG 1.png
@@ -35,7 +37,7 @@ The main training/dev datasets are in `task1-train-dev.json` and `task2-train-de
 
 Parsed figures, tables, and captions for each paper, as `.png` files, are in `figures-tables`, organized by paper citekey as enclosing subfolders.
 
-Full-text parses for each paper are in `fulltexts.json`.
+The current set of full-text parses for each paper are in `fulltexts-2024-04-25-update.json`. The json is structured as a dictionary, where each key is a citekey (e.g., `nomura2004human`) and with a string containing the whole full-text parse for that paper as its associated value.
 
 Evaluation scripts for each task are in `eval/`
 
@@ -82,16 +84,16 @@ Scoring will be done using NDCG at 5 and 10. More details in `eval1.py` in `eval
 
 ### Training and dev data description
 
-There are currently 393 total scientific claims across the four datsets, in the following breakdown
+There are currently 474 total scientific claims across the four datsets, in the following breakdown
 
 | Dataset                      | N   |
 | ---------------------------- | --- |
-| akamatsulab                  | 166 |
-| BIOL403                      | 29  |
-| dg-social-media-polarization | 76  |
-| megacoglab                   | 122 |
+| akamatsulab                  | 213 |
+| BIOL403                      | 60  |
+| dg-social-media-polarization | 78  |
+| megacoglab                   | 123 |
 
-Approximately 100 more are forthcoming by ~April 19.
+393 were present in the initial release (in `task1-train-dev.json`), and 81 new claims were added on April 26. The full training dataset of 474 claims are in `task1-train-dev-2024-04-25.json`.
 
 ## Task 2: Grounding Context Identification
 
