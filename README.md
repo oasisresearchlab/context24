@@ -159,7 +159,7 @@ Task 2 is a "test-only" task. In liueu of training data, we are releasing a smal
 
 You can see how we will evaluate submissions --- both in terms of scoring, and prediction file format and structure --- for Task 1 and 2 by running the appropriate eval script for your predictions. 
 
-Details on submission mechanics (e.g., whether you will submit prediction files directly to organizers, or to a benchmarking platform) will be finalized soon......................................
+Details on submission mechanics (e.g., whether you will submit prediction files directly to organizers, or to a benchmarking platform) will be finalized in the very near future and updated here.
 
 ### Task 1
 
