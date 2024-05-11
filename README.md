@@ -31,11 +31,16 @@ figures-tables/
 		...
 silver-data/
 eval/
+extracted_captions/
+	citekey1.json
+	...
 ```
 
 The main training/dev datasets are in `task1-train-dev.json` and `task2-train-dev.json`.
 
 Parsed figures, tables, and captions for each paper, as `.png` files, are in `figures-tables`, organized by paper citekey as enclosing subfolders.
+
+Caption texts extracted by running OCR via Nougat on corresponding caption `.png` files from `figures-tables` are provided in `extracted_captions`, organized into `.json` files per paper citekey. Since these are automatically extracted, some might be empty/incorrect due to extraction failures.
 
 The current set of full-text parses for each paper are in `fulltexts-2024-04-25-update.json`. The json is structured as a dictionary, where each key is a citekey (e.g., `nomura2004human`) and with a string containing the whole full-text parse for that paper as its associated value.
 
@@ -78,7 +83,7 @@ And an example claim with a Figure and Table as its key supporting evidence.
 }
 ```
 
-Each claim corresponds to a paper via the `citekey` field. The figures, tables, and captions for that paper can be found in the `figures-tables/` , under the subfolder with the same name as the `citekey`. The figures, tables, and captions are a set of `.png` files.
+Each claim corresponds to a paper via the `citekey` field. The figures, tables, and captions for that paper can be found in the `figures-tables/` , under the subfolder with the same name as the `citekey`. The figures, tables, and captions are a set of `.png` files. Caption texts extracted via OCR can be found in a `.json` file with the same name as the `citekey` in `extracted_captions/`.
 
 Scoring will be done using NDCG at 5 and 10. More details in `eval1.py` in `eval/`.
 
