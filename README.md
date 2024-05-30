@@ -110,6 +110,15 @@ There are currently 474 total scientific claims across the four datsets, in the 
 
 393 were present in the initial release (in `task1-train-dev.json`), and 81 new claims were added on April 26. The full training dataset of 474 claims are in `task1-train-dev-2024-04-25.json`.
 
+### Test data description
+
+The test set consists of 111 total scientific claims across two datasets, in the following breakdown
+
+| Dataset                      | N   |
+| ---------------------------- | --- |
+| akamatsulab                  | 51 |
+| megacoglab                   | 60 |
+
 ## Task 2: Grounding Context Identification
 
 ### Task description
@@ -166,6 +175,15 @@ Task 2 is a "test-only" task. In liueu of training data, we are releasing a smal
 | ---------------------------- | --- |
 | akamatsulab                  | 28 |
 | megacoglab                   | 14 |
+
+### Test data description
+
+The test set consists of 109 total scientific claims across two datasets, in the following breakdown
+
+| Dataset                      | N   |
+| ---------------------------- | --- |
+| akamatsulab                  | 49 |
+| megacoglab                   | 60 |
 
 ## Evaluation and Submission
 
