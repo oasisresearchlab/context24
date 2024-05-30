@@ -23,8 +23,8 @@ The directory structure is as follows:
 task1-train-dev.json
 task1-train-dev-2024-04-25-update.json
 task2-train-dev.json
-fulltexts.json
-fulltexts-2024-04-25-update.json
+full_texts.json
+full_texts-2024-04-25-update.json
 figures-tables/
 	citekey/
 		FIG 1.png
@@ -34,6 +34,11 @@ eval/
 extracted_captions/
 	citekey1.json
 	...
+task1-test.json
+task2-test.json
+test_figures-tables/
+test_extracted_captions/
+full_texts-test.json
 ```
 
 The main training/dev datasets are in `task1-train-dev.json` and `task2-train-dev.json`.
@@ -47,6 +52,8 @@ The current set of full-text parses for each paper are in `fulltexts-2024-04-25-
 Evaluation scripts for each task are in `eval/`
 
 As an additional possibly useful resource, `silver-data` contains full text parses for 17,007 papers from 1-2 hop in-bound and out-bound citations of the focal papers. 
+
+Test set claims are in `task1-test.json` and `task2-test.json`, respectively. `.png` extracts of figures, tables, and captions for corresponding citekeys for the claims are in `test_figures-tables/` and captions are in `extracted_captions/`, with the same organizational structure as the training data. Full-texts are in `full_texts-test.json`
 
 ## Task 1: Evidence Identification
 
@@ -164,7 +171,9 @@ Task 2 is a "test-only" task. In liueu of training data, we are releasing a smal
 
 You can see how we will evaluate submissions --- both in terms of scoring, and prediction file format and structure --- for Task 1 and 2 by running the appropriate eval script for your predictions. 
 
-Details on submission mechanics (e.g., whether you will submit prediction files directly to organizers, or to a benchmarking platform) will be finalized in the very near future and updated here.
+Submissions will be evaluated on the `eval.ai` platform at this challenge URL: https://eval.ai/web/challenges/challenge-page/2306/overview 
+
+The challenge is currently not yet live (pending some technical issues, should be up in the next few days), but submissions will be accepted in the same format as expected by the eval scripts.
 
 ### Task 1
 
