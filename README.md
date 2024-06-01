@@ -2,6 +2,8 @@
 
 This repository hosts the training/dev datasets and evaluation scripts for the [2024 Workshop on Scholarly Document Processing](https://sdproc.org/2024/sharedtasks.html#context24) Shared Task: **Context24: Contextualizing Scientific Figures and Tables**
 
+Submissions for the shared task will be evaluated on the `eval.ai` platform at this challenge URL: https://eval.ai/web/challenges/challenge-page/2306/overview (with a challenge period of May 31 10 am PST - June 6 5 pm PST).
+
 ## Background and Problem
 
 People read and use scientific claims both within the scientific process (e.g., in literature reviews, problem formulation, making sense of conflicting data) and outside of science (e.g., evidence-informed deliberation). When doing so, it is critical to **contextualize** claims with key supporting empirical evidence (e.g., figures of key results) and methodological details (e.g., measures, sample).
