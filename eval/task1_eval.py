@@ -78,7 +78,7 @@ def run_eval(pred_labels, gold_labels, parse_folder, claim_citekeys, debug):
     
     # Display final evaluation scores
     for rank in ranks_to_eval:
-        final_ndcg = sum(list(ndcg_scores[rank].values())) / non_empty_samples
+        final_ndcg = sum(list(ndcg_scores[rank].values())) / len(gold_labels)
         print(f'NDCG@{rank}: {final_ndcg}')
     
     if debug:
